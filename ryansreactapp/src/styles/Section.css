@@ -1,8 +1,10 @@
 .section {
-  background: #f3e5f5;
+  background: #2e2c2e;
   padding: 20px;
+  color: white;
 }
 
 .section h2 {
   text-align: center;
+  color: white;
 }

@@ -5,7 +5,7 @@ import "../styles/About.css";
 function About() {
   return (
     <section className="about">
-      <h2>About</h2>
+      <h1>About</h1>
       <p>
       My name is Ryan Evans. Thank you for visiting my Professional Portfolio created with React!
       <br></br>

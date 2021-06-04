@@ -5,7 +5,7 @@ import "../styles/Work.css";
 function Work() {
   return (
     <section className="work">
-        <h2>Work</h2>
+        <h1>Work</h1>
         <div class="container">
      <div class="card">
        <div class="face face1">
@@ -50,7 +50,7 @@ function Work() {
          </div>
        </div>
     </div>
-    
+
   </div>
     
     </section>

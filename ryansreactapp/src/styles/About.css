@@ -1,10 +1,12 @@
 .about {
+  font-size: 20px;
   background: #2e2c2e;
   padding: 20px;
   color: white;
 }
 
-.about h2 {
+.about h1 {
+  font-size: 50px;
   text-align: center;
   color: #3eb6d7;
 }

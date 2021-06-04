@@ -1,15 +1,20 @@
 import React from "react";
-import Header from "./components/Header";
-import Section from "./components/Section";
-
 import Navbar from "./components/Navbar";
+import Header from "./components/Header";
+import About from "./components/About";
+import Work from "./components/Work";
+import Resume from "./components/Resume";
+import Contact from "./components/Contact";
 
 function App() {
   return (
     <div>
       <Navbar />
       <Header />
-      <Section />
+      <About />
+      <Work />
+      <Resume />
+      <Contact />
     </div>
   );
 }

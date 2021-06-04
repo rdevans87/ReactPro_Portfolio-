@@ -1,13 +1,15 @@
 .navbar {
   background: #090809;
-  height: 60px;
-  padding-left: 10px;
+  height: 80px;
+  padding-right: 10px;
 }
 
 .navbar a {
   color: #3eb6d7;
-  font-size: 1.3rem;
+  float: right;
+  font-size: 1.5rem;
   text-decoration: none;
   margin: 5px;
+  padding-bottom: 2px;
   line-height: 3;
 }

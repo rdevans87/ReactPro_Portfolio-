@@ -7,9 +7,15 @@ function About() {
     <section className="about">
       <h2>About</h2>
       <p>
-      Independent web developer with leadership experience and strong technical background supporting a variety of cross-platform software applications. Certified project management professional and recent graduate of The Ohio State University’s full stack coding bootcamp. 
+      My name is Ryan Evans. Thank you for visiting my Professional Portfolio created with React!
+      <br></br>
+      <br></br>
+      I'm Independent web developer with leadership experience and strong technical background supporting a variety of cross-platform software applications. Certified project management professional and recent graduate of The Ohio State University’s full stack coding bootcamp. 
       In depth knowledge of Agile principles and software QA testing methods for each phase of the development lifecycle. Self-motivated, team-player with the ability to learn quickly and communicate effectively to build fast rapport with clients and team members of varying seniority, 
       backgrounds and experience.
+      <br></br>
+      <br></br>
+      Open to independent projects, collaborative opportunities, and contract-to-hire positions. Knowledge of front-end languages and third-party frameworks for building mobile responsive web applications. Experience with DOM manipulation and JSON data integration with server-side APIs.
       </p>
     </section>
   );

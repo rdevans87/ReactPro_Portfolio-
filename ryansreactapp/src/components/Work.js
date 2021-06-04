@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Work.css";
 
-// By importing the About.css file, it is added to the DOM whenever this component loads
+// By importing the Work.css file, it is added to the DOM whenever this component loads
 function Work() {
   return (
     <section className="work">

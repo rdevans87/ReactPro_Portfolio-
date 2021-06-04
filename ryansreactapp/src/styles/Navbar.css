@@ -1,6 +1,7 @@
 .navbar {
   background: #090809;
   height: 60px;
+  padding-left: 10px;
 }
 
 .navbar a {

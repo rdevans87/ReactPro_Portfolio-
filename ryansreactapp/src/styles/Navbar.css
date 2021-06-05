@@ -1,15 +1,35 @@
 .navbar {
-  background: #090809;
-  height: 80px;
+  background: #131313;
+  height: 100px;
   padding-right: 10px;
 }
 
 .navbar a {
   color: #3eb6d7;
+  display: block;
   float: right;
   font-size: 1.5rem;
   text-decoration: none;
-  margin: 5px;
-  padding-bottom: 2px;
-  line-height: 5;
+  /* margin: 5px; */
+
+  padding: 18px 15px;
+  margin-right: 20px;
+  margin-top: 20px;
+  /* padding-bottom: 2px; */
+  /* line-height: 5; */
+  box-shadow: 0 8px 8px 0 black;
+  
+}
+
+.navbar p{
+  color: #3eb6d7;
+  display: block;
+  float: left;
+  font-size: 1.5rem;
+  text-decoration: none;
+  padding: 18px 15px;
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0 8px 8px 0 black;
+
 }

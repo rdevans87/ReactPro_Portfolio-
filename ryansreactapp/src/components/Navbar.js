@@ -10,6 +10,7 @@ function Navbar() {
       <a href="/">Resume</a>
       <a href="/">Work</a>
       <a href="/">About</a>
+      <p>Professional Portfolio</p>
     </nav>
     
   );

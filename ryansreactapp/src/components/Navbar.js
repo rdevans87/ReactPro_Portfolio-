@@ -6,12 +6,12 @@ import "../styles/Navbar.css";
 function Navbar() {
   return (
     <nav className="navbar">
-      <a href="/">About</a>
-      <a href="/">Work</a>
-      <a href="/">Resume</a>
       <a href="/">Contact</a>
-
+      <a href="/">Resume</a>
+      <a href="/">Work</a>
+      <a href="/">About</a>
     </nav>
+    
   );
 }
 

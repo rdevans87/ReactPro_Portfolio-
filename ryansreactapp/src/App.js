@@ -5,6 +5,7 @@ import About from "./components/About";
 import Work from "./components/Work";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

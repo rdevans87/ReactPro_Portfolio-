@@ -16,7 +16,7 @@ function Work() {
        <div className="face face2">
          <div className="content">
            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab repudiandae, explicabo voluptate et hic cum ratione a. Officia delectus illum perferendis maiores quia molestias vitae fugiat aspernatur alias corporis?</p>
-           <a href="#" type="button">Read More</a>
+           <a href="/" type="button">Read More</a>
          </div>
        </div>
     </div>
@@ -30,7 +30,7 @@ function Work() {
        <div className="face face2">
          <div className="content">
            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab repudiandae, explicabo voluptate et hic cum ratione a. Officia delectus illum perferendis maiores quia molestias vitae fugiat aspernatur alias corporis?</p>
-           <a href="#" type="button">Read More</a>
+           <a href="/" type="button">Read More</a>
          </div>
        </div>
     </div>
@@ -44,7 +44,7 @@ function Work() {
        <div className="face face2">
          <div className="content">
            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab repudiandae, explicabo voluptate et hic cum ratione a. Officia delectus illum perferendis maiores quia molestias vitae fugiat aspernatur alias corporis?</p>
-           <a href="#" type="button">Read More</a>
+           <a href="/" type="button">Read More</a>
          </div>
        </div>
     </div>
@@ -58,7 +58,7 @@ function Work() {
        <div className="face face2">
          <div className="content">
            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab repudiandae, explicabo voluptate et hic cum ratione a. Officia delectus illum perferendis maiores quia molestias vitae fugiat aspernatur alias corporis?</p>
-           <a href="#" type="button">Read More</a>
+           <a href="/" type="button">Read More</a>
          </div>
        </div>
     </div>

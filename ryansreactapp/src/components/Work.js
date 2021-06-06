@@ -21,7 +21,7 @@ function Work() {
        </div>
     </div>
     
-    <div className="card">
+    <div className="card card3">
        <div className="face face1">
          <div className="content">
             <h3>Employee Tracker</h3>
@@ -35,7 +35,7 @@ function Work() {
        </div>
     </div>
     
-    <div className="card">
+    <div className="card card4">
        <div className="face face1">
          <div className="content">
             <h3>Project 3</h3>
@@ -52,7 +52,7 @@ function Work() {
     <div className="card">
        <div className="face face1">
          <div className="content">
-            <h3>Project 3</h3>
+            <h3>Weather Dashboard</h3>
          </div>
        </div>
        <div className="face face2">
@@ -64,19 +64,6 @@ function Work() {
     </div>
 
   </div>
-
-  <div class="flip-card">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-      {/* <img src="img_avatar.png" alt="Avatar" style="width:300px;height:300px;">  */}
-    </div>
-    <div class="flip-card-back">
-      <h1>John Doe</h1> 
-      <p>Architect & Engineer</p> 
-      <p>We love that guy</p>
-    </div>
-  </div>
-</div>
 
     </section>
   );

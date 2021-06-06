@@ -39,3 +39,15 @@
 .navbar p:hover{
   text-shadow: 4px 4px 4px whitesmoke;
 }
+
+
+@media screen and (max-width: 768px) {
+    .navbar a{
+     display: none;
+}
+
+    .navbar p{
+      text-align: center;
+      margin: 1px;
+    }
+  }

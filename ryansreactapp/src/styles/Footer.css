@@ -21,10 +21,16 @@
   .footer img{
 
     position: inline-block;
-     align-items: center; 
+    align-items: center; 
     text-decoration: none;
     padding: 18px 15px; 
     padding-bottom: 10px;
+
+  }
+
+  .footer img:hover{
+    text-shadow: 2px 2px 4px whitesmoke;
+
 
   }
 

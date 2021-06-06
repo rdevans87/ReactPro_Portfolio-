@@ -6,6 +6,7 @@ import Work from "./components/Work";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import './App.css';
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {

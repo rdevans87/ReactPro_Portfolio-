@@ -1,19 +1,28 @@
 .footer{
     background: #131313;
-    height: 100px;
-    padding-right: 10px;
-  }
+    height: 120px;
+    width: 100%;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 100px;
+}
 
   .footer a{
     color: #3eb6d7;
-    display: block;
-    float: right;
+    position: inline-block;
+    align-items: center;
     font-size: 1.5rem;
     text-decoration: none;
     padding: 18px 15px;
-    margin-right: 20px;
-    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 20px;
     box-shadow: 0 8px 8px 0 black;
     text-shadow: 2px 2px 4px #000;
+  }
+
+  .footer a{
+    position: relative;
+
+
+  }
   
-}

@@ -10,3 +10,7 @@
   color: #3eb6d7;
   text-shadow: 4px 4px 4px #000;
 }
+
+.resume h2:hover {
+  text-shadow: 4px 4px 4px whitesmoke;
+}

@@ -7,9 +7,12 @@
 .about {
   font-size: 20px;
   background: #2e2c2e;
+  /* margin: 20px; */
   padding: 20px;
+  padding-left: 30px;
   color: white;
-  text-shadow: 4px 4px 4px #000;
+  text-shadow: 2px 2px 4px #000;
+ 
 }
 
 .about h1 {
@@ -17,4 +20,9 @@
   text-align: center;
   color: #3eb6d7;
   padding-bottom: 20px;
+  text-shadow: 4px 4px 4px #000000;
+}
+
+.about h1:hover{
+  text-shadow: 4px 4px 4px whitesmoke;
 }

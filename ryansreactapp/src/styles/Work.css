@@ -164,14 +164,19 @@ body {
  @media screen and (max-width: 900px) {
 
   .container{
-    width: 80vh;
+    width: 200px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+
 
   }
    
   .container .card .face.face1 {
     float: left;
-    margin-top: 39px;
-    transform: translateZ(-30px);
+    margin-top: 20px;
+    
    
   
    
@@ -182,25 +187,24 @@ body {
   .container .card .face.face2{
     position: relative;
     float: left;
-    transform: translateX(-300px);
-    transform-origin:bottom;
+    /* transform: translateY(0px); */
+    /* transform-origin:bottom; */
     /* transform: translateZ(-1px); */
     /* transform: translateY(-1px); */ 
-    transition: 0.5;
-    margin-top: 39px;
-    margin-bottom: 40px;
-    margin-left: 0px;
+    /* transition: 0.5; */
+    /* margin-bottom: 40px; */
+    /* margin-left: 0px; */
 
   
     
   }
 
-
+/* 
   .container .card:hover .face.face2{
     transform: translateY(0);
 
 
-}
+} */
 
 
 

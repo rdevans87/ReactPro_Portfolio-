@@ -21,7 +21,7 @@ function Work() {
        </div>
     </div>
     
-    <div className="card">
+     <div className="card">
        <div className="face face1">
          <div className="content">
             <h3>Employee Tracker</h3>
@@ -47,7 +47,7 @@ function Work() {
            <a href="/" type="button">Read More</a>
          </div>
        </div>
-    </div>
+    </div> 
 
     {/* <div className="card">
        <div className="face face1">

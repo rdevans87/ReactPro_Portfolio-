@@ -1,7 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
+}
+
 body {
-  background: #2e2c2e;
-  max-width: 100%;
+  background: hsl(300, 2%, 18%);
   flex-direction: column;
+
 }
 
 .work {
@@ -155,13 +161,19 @@ body {
  }
 
 
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 900px) {
+
+  .container{
+    width: 80vh;
+
+  }
+   
   .container .card .face.face1 {
     float: left;
-    margin-top: 40px;
-    transform: translateZ(-50px);
-    
-    /* transform: translateY(100px 200px); */
+    margin-top: 39px;
+    transform: translateZ(-30px);
+   
+  
    
     
 
@@ -171,21 +183,24 @@ body {
     position: relative;
     float: left;
     transform: translateX(-300px);
-    /* transform: translateZ(100px); */
-    transform-origin: bottom left;
+    transform-origin:bottom;
     /* transform: translateZ(-1px); */
     /* transform: translateY(-1px); */ 
     transition: 0.5;
-    
-    margin-top: 40px;
+    margin-top: 39px;
+    margin-bottom: 40px;
+    margin-left: 0px;
+
   
-
-
-    
     
   }
 
 
+  .container .card:hover .face.face2{
+    transform: translateY(0);
+
+
+}
 
 
 

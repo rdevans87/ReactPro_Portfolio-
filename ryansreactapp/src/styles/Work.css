@@ -158,9 +158,10 @@ body {
  @media screen and (max-width: 768px) {
   .container .card .face.face1 {
     float: left;
-    margin-top: 30px;
-    transform: translateX(-100px 100px);
-    transform: translateY(100px 200px 100px);
+    margin-top: 40px;
+    transform: translateZ(-50px);
+    
+    /* transform: translateY(100px 200px); */
    
     
 
@@ -170,10 +171,13 @@ body {
     position: relative;
     float: left;
     transform: translateX(-300px);
-    transform: translateY(-1px);
+    /* transform: translateZ(100px); */
+    transform-origin: bottom left;
+    /* transform: translateZ(-1px); */
+    /* transform: translateY(-1px); */ 
     transition: 0.5;
     
-    margin-top: 29px;
+    margin-top: 40px;
   
 
 

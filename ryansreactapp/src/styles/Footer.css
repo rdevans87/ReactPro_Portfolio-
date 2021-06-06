@@ -1,8 +1,6 @@
 .footer{
     background: #131313;
-    height: 120px;
-    width: 100%;
-    margin-bottom: 0px;
+    height: 100px;
     text-align: center;
     line-height: 100px;
 }
@@ -20,9 +18,18 @@
     text-shadow: 2px 2px 4px #000;
   }
 
-  .footer a{
-    position: relative;
+  .footer img{
+
+    position: inline-block;
+    align-items: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding: 18px 15px;
+    margin-bottom: 0px;
+    margin-left: 20px;
 
 
   }
+
+
   

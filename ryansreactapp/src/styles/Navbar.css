@@ -25,6 +25,7 @@
   color: #3eb6d7;
   display: block;
   float: left;
+  flex-direction: column;
   font-size: 1.5rem;
   text-decoration: none;
   padding: 18px 15px;

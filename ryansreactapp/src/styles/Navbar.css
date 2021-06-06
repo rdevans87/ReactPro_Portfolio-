@@ -47,7 +47,8 @@
 }
 
     .navbar p{
-      text-align: center;
-      margin: 1px;
+      justify-content: center;
+      margin: 10px;
+      margin-left: 65px;
     }
   }

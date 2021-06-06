@@ -22,5 +22,13 @@
 
 
 
+@media screen and (max-width: 768px) {
+
+  .header h1{
+    padding-top: 20px;
+
+  }
+}
+
 
 

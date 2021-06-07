@@ -1,30 +1,29 @@
-# Unit 20 React Homework: React Portfolio
+# Professional Portfolio with React <img src="ryansreactapp/src/assets/icons8-react.png">
+## Summary
 
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+ Unit 20 React Homework: React Portfolio
 
-## Requirements
+This portfolio was built with the `JavaScript` open-source library `React` using UI Components and Navigation with `React Router`. The portfolio has a polished design with pure CSS styling, developed with the "mobile first" approach. `Navbar`, `Header`, and `Footer` components appear on multiple pages for greater accessibilty and ease of use when viewing main portfolio components: `Work`, `About`, `Resume`, and `Contact`.
 
-* Updated portfolio featuring 6 total projects
-* Use React
-* A `Header` component that appears on multiple pages
-* A single `Project` component that will be used multiple times on a single page 
-* Navigation with React Router, dynamic rendering, or another third part router
-* A `Footer` component that appears on multiple pages
-* Update GitHub profile with pinned repositories featuring those same projects
+Github Repository: [ReactPro_Portfolio](/)
 
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
+Deployed to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
+
+[React Portfolio](/)
+
+
+If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read thand the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
+
 
 * **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
 
-## Grading
+## Acceptance Criteria
 
 | Requirement    | Weight |
 | -------------- | ------ |
 | Portfolio      | 90%    |
 | GitHub Profile | 10%    |
 
-
-## Instructions
 
 * [Updated Portfolio](#updated-portfolio)
 
@@ -34,58 +33,25 @@ Now that you've worked with React and have multiple projects to share, you'll be
 
 * [Updated LinkedIn Profile](#updated-linkedin-profile)
 
-### Updated Portfolio
+## RESOURCES
 
-Your updated site should still have all of the content it previously had:
+* [React](https://reactjs)
 
-* Your name
+* [create-react-app](https://github.com/facebook/create-react-app)
 
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+* [React Router](https://reactrouter.com/)
 
-* A link to a PDF of your resume with updated projects
+* [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) 
 
-* A list of projects. For each project, make sure you have the following:
-
-  * Project title
-
-  * Link to the deployed version
-
-  * Link to the GitHub repository
-
-  * GIF or screenshot of the deployed application
+* [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) 
 
 
-#### Design
 
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
+## Questions
+ 
+ Email: <a href="mailto:rdevans87@gmail.com">rdevans87@gmail.com</a>
 
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-* If you want to go above and beyond, try using animations and react component libraries. Note 
-that this will _not_ affect your grade, but it may impact how potentials employers gauge your knowledge.
-
-### React
-
-Additionally, this new portfolio should be created using React.
-
-At a minimum, your portfolio should include the following:
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-* **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
+ Github: <a href="https://github.com/rdevans87">rdevans87</a>
 
 
-### Updated LinkedIn Profile 
-
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
+[LICENSE FROM MIT](/Users/ryanevans/ORM-ECommerce-BackEnd/LICENSE)

@@ -2,6 +2,7 @@
   background: #131313;
   height: 100px;
   padding-right: 10px;
+  
 }
 
 .navbar a {
@@ -13,25 +14,25 @@
   padding: 18px 15px;
   margin-right: 20px;
   margin-top: 20px;
-  box-shadow: 0 8px 8px 0 black;
+  box-shadow: 0 8px 8px 0 #3eb6d7;
   text-shadow: 2px 2px 4px #000;
 }
 
 .navbar a:hover { 
-  text-shadow: 4px 4px 4px whitesmoke;
+  text-shadow: 4px 4px 4px  #3eb6d7;
 }
 
 .navbar p{
-  color: #3eb6d7;
+  color: #c42afe;
   display: block;
   float: left;
   flex-direction: column;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   text-decoration: none;
   padding: 18px 15px;
   margin-top: 20px;
   margin-left: 20px;
-  box-shadow: 0 8px 8px 0 black;
+  box-shadow: 0 8px 8px 0 #c42afe;
   text-shadow: 2px 2px 4px #000;
 
 }
@@ -47,8 +48,7 @@
 }
 
     .navbar p{
-      justify-content: center;
       margin: 10px;
-      margin-left: 65px;
+      margin-left: 125px;
     }
   }

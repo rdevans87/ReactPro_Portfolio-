@@ -7,6 +7,7 @@
 body {
   background: hsl(300, 2%, 18%);
   flex-direction: column;
+  max-width: 1005;
 
 }
 
@@ -160,6 +161,26 @@ body {
    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
  }
 
+ /* .card1{
+   
+ }
+ .card2{
+   
+}
+.card3{
+   
+}
+
+.card4{
+   
+}
+.card5{
+   
+}
+.card6{
+   
+} */
+
 
  @media screen and (max-width: 900px) {
 
@@ -185,21 +206,42 @@ body {
   }
 
   .card.card1 {
-    z-index: 3;
+    z-index: 6;
    
   }
 
   .card.card2{
-    z-index: 2;
-    margin-top: -160px;
+    z-index: 5;
+    margin-top: -157px;
     
   }
 
-  .card.card3 .face.face1{
-  z-index:1;
+  .card.card3{
+  z-index:4;
   position: relative;
   margin-top: -155px;
   }
+
+
+  .card.card4{
+    z-index:3;
+    position: relative;
+    margin-top: -155px;
+    }
+
+
+  .card.card5{
+    z-index:2;
+    position: relative;
+    margin-top: -155px;
+    }
+
+
+  .card.card6{
+    z-index:1;
+    position: relative;
+    margin-top: -155px;
+    }
 
 
 

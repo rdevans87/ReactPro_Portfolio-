@@ -9,7 +9,7 @@ function Resume() {
       <div>
       <h3>Skills:</h3>
       <img src="" width="300px" alt="profile" className="profile"></img> 
-       Certificates:
+       <h3>Certificates:</h3>
        <ul>
          <li>Full Stack Coding Bootcamp (2021)</li>
          <li>Agile Master Training (2021)</li>
@@ -17,9 +17,17 @@ function Resume() {
          <li>Software Testing Bootcamp (2019)</li>
        </ul>
       <br></br>
-       Employment:
+       <h3>Employment:</h3>
+       <br></br>
+       Product Owner
+       <br></br>
+       Sr. Technical Support Analyst
+      <br></br>
+      Customer Service Specialist
       <br></br>
       Education:
+      <br></br>
+      B.A. Communication and Media Studies.
       </div>
       <div>
         <p>View or Download my full <a href="ryansreactapp/src/assets/RyanEvansResumeUpdated.pdf">Resume</a></p>
@@ -27,9 +35,6 @@ function Resume() {
     </section>
 
 
-
-
-    </section>
   );
 }
 

@@ -1,4 +1,5 @@
 import React from "react";
+// import "../components/about/About.css";
 import "../styles/About.css";
 
 // By importing the About.css file, it is added to the DOM whenever this component loads
@@ -16,7 +17,11 @@ function About() {
       <br></br>
       <br></br>
       Open to independent projects, collaborative opportunities, and contract-to-hire positions. Knowledge of front-end languages and third-party frameworks for building mobile responsive web applications. Experience with DOM manipulation and JSON data integration with server-side APIs.
+      <br></br>
+      View my full <a href="#/resume" className="resume"></a>
+      
       </p>
+      
     </section>
   );
 }

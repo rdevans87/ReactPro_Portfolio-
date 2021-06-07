@@ -1,0 +1,20 @@
+
+
+.contact {
+    background: #2e2c2e;
+    padding: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+    color: white;
+  }
+  
+  .contact h2 {
+    font-size: 60px;
+    text-align: center;
+    color: #3eb6d7;
+    text-shadow: 4px 4px 4px #000;
+  }
+
+  .contact h2:hover{
+    text-shadow: 2px 2px 4px whitesmoke;
+  }

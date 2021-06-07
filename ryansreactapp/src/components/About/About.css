@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
+}
+
+.about {
+  font-size: 20px;
+  background: #2e2c2e;
+  /* margin: 20px; */
+  padding: 20px;
+  padding-left: 30px;
+  color: white;
+  text-shadow: 2px 2px 4px #000;
+ 
+}
+
+.about h1 {
+  font-size: 60px;
+  text-align: center;
+  color: #3eb6d7;
+  padding-bottom: 20px;
+  text-shadow: 4px 4px 4px #000000;
+  padding-top: 15px;
+}
+
+.about h1:hover{
+  text-shadow: 2px 2px 4px whitesmoke;
+  
+  
+}
+
+
+@media screen and (max-width: 768px) {
+
+  .about h1{
+    padding-top: 20px;
+
+  }
+}

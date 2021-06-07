@@ -1,0 +1,80 @@
+.navbar {
+  background: #1a1a1a;
+  height: 100px;
+  padding-right: 10px;
+  
+}
+
+.navbar a {
+  color: #3eb6d7;
+  display: block;
+  float: right;
+  font-size: 1.3rem;
+  text-decoration: none;
+  padding: 18px 15px;
+  margin-right: 20px;
+  margin-top: 20px;
+  box-shadow: 0 6px 8px 0 #3eb6d7;
+  text-shadow: 2px 2px 4px #000;
+}
+
+.navbar a:hover { 
+  text-shadow: 4px 4px 4px  #3eb6d7;
+}
+
+.navbar p{
+  color: #c42afe;
+  display: block;
+  float: left;
+  flex-direction: column;
+  font-size: 1.7rem;
+  text-decoration: none;
+  padding: 18px 15px;
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0 6px 8px 0 #c42afe;
+  text-shadow: 2px 2px 4px #000;
+
+}
+
+.navbar p:hover{
+  text-shadow: 4px 4px 4px #c42afe;
+}
+
+
+@media screen and (max-width: 768px) {
+    .navbar a{
+     display: none;
+}
+
+    .navbar p{
+      margin: 10px;
+      margin-left: 125px;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .navbar a{
+     display: none;
+}
+
+    .navbar p{
+      margin: 10px;
+      margin-left: 110px;
+    }
+  }
+
+
+
+  @media screen and (max-width: 375px) {
+    .navbar a{
+     display: none;
+}
+
+    .navbar p{
+      font-size: 24px;
+      margin: 10px;
+      margin-left: 65px;
+    }
+  }
+

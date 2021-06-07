@@ -1,5 +1,5 @@
 .footer{
-    background: #131313;
+    background: #1a1a1a;
     height: 110px;
     text-align: center;
    
@@ -28,7 +28,7 @@
 
   }
 
-  .footer img:hover{
+  .src:hover{
     text-shadow: 2px 2px 4px whitesmoke;
 
 

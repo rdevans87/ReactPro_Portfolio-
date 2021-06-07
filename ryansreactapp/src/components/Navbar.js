@@ -5,6 +5,7 @@ import "../styles/Navbar.css";
 
 function Navbar() {
   return (
+  
     <nav className="navbar">
       <a href="#/">Contact</a>
       <a href="#/">Resume</a>

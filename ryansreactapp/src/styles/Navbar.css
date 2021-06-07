@@ -52,3 +52,29 @@
       margin-left: 125px;
     }
   }
+
+  @media screen and (max-width: 480px) {
+    .navbar a{
+     display: none;
+}
+
+    .navbar p{
+      margin: 10px;
+      margin-left: 110px;
+    }
+  }
+
+
+
+  @media screen and (max-width: 375px) {
+    .navbar a{
+     display: none;
+}
+
+    .navbar p{
+      font-size: 24px;
+      margin: 10px;
+      margin-left: 65px;
+    }
+  }
+

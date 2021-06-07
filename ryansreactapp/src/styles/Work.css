@@ -1,13 +1,13 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding:0;
+  
 }
 
 body {
   background: hsl(300, 2%, 18%);
   flex-direction: column;
-  max-width: 1005;
+  max-width: 100%;
 
 }
 
@@ -34,7 +34,7 @@ body {
 
 
   .container{
-    width: 1000px;
+    width: 100%;
     padding-top: 10px;
     position: relative;
     display: flex;
@@ -182,7 +182,7 @@ body {
 } */
 
 
- @media screen and (max-width: 900px) {
+ @media screen and (max-width: 770px) {
 
   .container{
     width: 200px;
@@ -190,13 +190,17 @@ body {
     display: flex;
     flex-direction: column;
     flex-wrap:wrap;
+    margin-left: 190px;
 
 
   }
    
   .container .card .face.face1 {
-    float: left;
+    /* float: left; */
     justify-content: center;
+    flex: column;
+    column-count: 2;
+   
 
   }
 
@@ -205,14 +209,21 @@ body {
     
   }
 
+  .card1 .card2 .card3 .card4 .card5 .card6 {
+    columns: 2
+
+  }
+
   .card.card1 {
     z-index: 6;
+  
    
   }
 
   .card.card2{
     z-index: 5;
     margin-top: -157px;
+    
     
   }
 
@@ -248,3 +259,46 @@ body {
 }
 
 
+@media screen and (max-width: 770px) {
+
+  .container{
+    width: 200px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    margin-left: -12px;
+  
+  }
+}
+
+  
+  @media screen and (max-width: 500px) {
+
+    .container{
+      width: 200px;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      flex-wrap:wrap;
+      margin-left: 45px;
+    
+  
+    }
+  
+}
+
+
+@media screen and (max-width: 380px) {
+
+  .container{
+    width: 200px;
+    position: relative;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    margin-left: -10px;
+  
+  }
+
+}

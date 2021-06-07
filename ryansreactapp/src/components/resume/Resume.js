@@ -6,8 +6,13 @@ function Resume() {
   return (
     <section className="resume">
       <h2>Resume</h2>
+      <img src="" alt="profilepicture" className="profile">
       <p>
-       
+       Skills:
+       <img src="" alt="html5" classname="badge">
+        
+       <br></br>
+       Experience:
       </p>
     </section>
   );

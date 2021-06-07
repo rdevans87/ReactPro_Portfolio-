@@ -18,7 +18,7 @@ class Header extends Component {
         </header>
         <div className="conent">
           <Route exact path="/" render={() => (<Redirect to="/about" />)} />
-          <Route path="/Navbar" component={Navbar}/>
+          <Route path="/navbar" component={Navbar}/>
           <Route path="/work" component={Work}/>
           <Route path="/resume" component={Resume}/>
           <Route path="/contact" component={Contact}/>

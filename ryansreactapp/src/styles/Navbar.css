@@ -1,3 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+
+body {
+  background: hsl(300, 2%, 18%);
+  flex-direction: column;
+  max-width: 100%;
+
+}
+
 .navbar {
   background: #1a1a1a;
   height: 100px;

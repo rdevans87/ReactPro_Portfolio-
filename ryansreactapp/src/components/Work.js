@@ -7,7 +7,7 @@ function Work() {
     <section className="work">
         <h1>Work</h1>
         <div className="container">
-     <div className="card">
+     <div className="card card1">
        <div className="face face1">
          <div className="content">         
            <h3>PetTrax</h3>
@@ -20,8 +20,8 @@ function Work() {
          </div>
        </div>
     </div>
-    
-     <div className="card">
+   
+     <div className="card card2">
        <div className="face face1">
          <div className="content">
             <h3>Employee Tracker</h3>
@@ -33,9 +33,11 @@ function Work() {
            <a href="/" type="button">Read More</a>
          </div>
        </div>
-    </div>
+       </div>
+  
     
-    <div className="card">
+  
+    <div className="card card3">
        <div className="face face1">
          <div className="content">
             <h3>Project 3</h3>
@@ -47,7 +49,8 @@ function Work() {
            <a href="/" type="button">Read More</a>
          </div>
        </div>
-    </div> 
+       </div>
+  
 
     {/* <div className="card">
        <div className="face face1">

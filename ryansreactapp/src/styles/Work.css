@@ -18,7 +18,7 @@ body {
 }
   
   .work h1 {
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
     color:#3eb6d7;
     ;
@@ -175,36 +175,31 @@ body {
    
   .container .card .face.face1 {
     float: left;
-    margin-top: 20px;
-    
-   
-  
-   
-    
+    justify-content: center;
 
   }
 
-  .container .card .face.face2{
+  .container .card .face.face2 {
     position: relative;
-    float: left;
-    /* transform: translateY(0px); */
-    /* transform-origin:bottom; */
-    /* transform: translateZ(-1px); */
-    /* transform: translateY(-1px); */ 
-    /* transition: 0.5; */
-    /* margin-bottom: 40px; */
-    /* margin-left: 0px; */
-
-  
     
   }
 
-/* 
-  .container .card:hover .face.face2{
-    transform: translateY(0);
+  .card.card1 {
+    z-index: 3;
+   
+  }
 
+  .card.card2{
+    z-index: 2;
+    margin-top: -160px;
+    
+  }
 
-} */
+  .card.card3 .face.face1{
+  z-index:1;
+  position: relative;
+  margin-top: -155px;
+  }
 
 
 

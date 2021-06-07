@@ -8,10 +8,10 @@ function Navbar() {
   return (
   
     <nav className="navbar">
-      <a href="#/">Contact</a>
-      <a href="#/">Resume</a>
-      <a href="#/">Work</a>
-      <a href="/about">About</a>
+      <Navlink to="/contact">Contact</Navlink>
+      <Navlink to="/resume">Resume</Navlink>
+      <Navlink to="/work">Work</Navlink>
+      <Navlink to="/about">About</Navlink>
       <p>Professional Portfolio</p>
     </nav>
     

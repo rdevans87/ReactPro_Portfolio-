@@ -1,4 +1,4 @@
-# Professional Portfolio with React <img src="ryansreactapp/src/assets/icons8-react.png">
+# Professional Portfolio with React <img src="ryansreactapp/src/assets/icons/icons8-react.png">
 
 ## Summary
 

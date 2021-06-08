@@ -7,6 +7,7 @@ function Resume() {
     <section className="resume">
       <hr></hr>
       <h2>Resume</h2>
+      <h3>Product Owner/Web Developer</h3>
       <div>
       <h3>Skills:</h3>
       <img src="" width="300px" alt="profile" className="profile"></img> 

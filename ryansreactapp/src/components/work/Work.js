@@ -1,4 +1,5 @@
 import React from "react";
+import RepoCards from "../../components/Project"
 import "../styles/Work.css";
 
 // By importing the Work.css file, it is added to the DOM whenever this component loads

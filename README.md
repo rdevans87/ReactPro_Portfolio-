@@ -1,4 +1,5 @@
 # Professional Portfolio with React <img src="ryansreactapp/src/assets/icons8-react.png">
+
 ## Summary
 
  Unit 20 React Homework: React Portfolio
@@ -7,15 +8,15 @@ This portfolio was built with the `JavaScript` open-source library `React` using
 
 Github Repository: [ReactPro_Portfolio](/)
 
-Deployed to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-[React Portfolio](/)
+Deployed to GitHub Pages [React Portfolio](/)
 
 
-If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read thand the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
+## Mock Up: 
 
 
-* **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
+<img src="ryansreactapp/src/assets/screenshotofsite.png" width="700">
+
+
 
 ## Acceptance Criteria
 

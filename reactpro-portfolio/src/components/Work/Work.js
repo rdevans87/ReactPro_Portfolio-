@@ -1,5 +1,5 @@
 import React from "react";
-import projectCards from "../Project";
+import projectCards from "../Work/Work.js";
 import "./Work.css";
 
 // By importing the Work.css file, it is added to the DOM whenever this component loads

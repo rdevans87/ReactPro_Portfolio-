@@ -2,55 +2,55 @@
     {
         "id": 1,
         "name": "petTrax" ,
-        "image":",
+        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/petTrax.png",
         "github":"https://github.com/rdevans87/pettrax", 
         "deploy":"https://secret-coast-15963.herokuapp.com/",
-        "topic:": ,
-    }
-{
+        "tools:": "MVC, Node.js, MySQL, Heroku, Clouinary, express"
+    },
+    {
         "id": 2,
         "name": "Employee Tracker",
-        "image": ,
+        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/employeeTracker.png" ,
         "github":"https://github.com/rdevans87/MySQL-Employee-Tracker",
         "deploy":"https://rdevans87.github.io/MySQL-Employee-Tracker/" ,
-        "topic:": ,
-    }
+        "tools:":"" 
+    },
     
     {
         "id": 3,
         "name": "Weather Dashboard",
-        "image": ,
+        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/weatherDashboard.png",
         "github":"https://github.com/rdevans87/Weather-Dashboard-March-6-2021",
         "deploy":"https://rdevans87.github.io/Weather-Dashboard-March-6-2021/",
-        "topic:": ,
-    }
+        "tools:":"" 
+    },
 
 
-        {
+    {
         "id": 4,
         "name": "E-Commerce Backend",
-        "image": ,
+        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/ecommerce.png" ,
         "github": "https://github.com/rdevans87/ORM-ECommerce-BackEnd" ,
         "deploy": "https://rdevans87.github.io/ORM-ECommerce-BackEnd/",
-        "topic:": ,
-    }
+        "tools:":"" 
+    },
 
             
-            {
+    {
         "id": 5,
         "name": "NoteTaker App",
-        "image": ,
+        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/noteTaker.png" ,
         "github":"https://github.com/rdevans87/Express.js_NoteTaker" ,
         "deploy":"https://notetaker-expressjs.herokuapp.com/" ,
-        "topic:": ,
-    }
-        
-                {
+        "tools:":""   
+    },
+    
+    {
         "id": 6,
         "name": "ReadMe Generator",
-        "image": ,
+        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/goodReadMe.png" ,
         "github":"https://github.com/rdevans87/ReadMeGenerator_NodeJs",
         "deploy":"https://rdevans87.github.io/ReadMeGenerator_NodeJs/" ,
-        "topic:": ,
-    }
+        "tools:":"" 
+    },
 ]

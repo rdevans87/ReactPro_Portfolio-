@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { Route, Redirect, HashRouter } from "react-router-dom";
-import Navbar from "../../components/Navbar";
-import About from "../../components/About";
-import Work from "../../components/Work";
-import Resume from "../../components/Resume";
-import Contact from "../../components/Contact";
+import Navbar from "../../components/Navbar/Navbar";
+import About from "../../components/About/About";
+import Work from "../../components/Work/Work";
+import Resume from "../../components/Resume/Resume";
+import Contact from "../../components/Contact/Contact";
 import "../styles/Header.css";
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads

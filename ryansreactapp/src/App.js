@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Header from "./components/Header";
+import Navbar from "../components/Navbar";
+import Header from "../src/components/Header/Header";
 // import About from "./components/About";
 // import Work from "./components/Work";
 // import Resume from "./components/Resume";
 // import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Footer from "../src/components/Footer/Footer";
 // import "../styles/Footer.css";
 import './App.css';
 

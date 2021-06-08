@@ -30,8 +30,8 @@
         "id": 4,
         "name": "E-Commerce Backend",
         "image": ,
-        "github": ,
-        "deploy": ,
+        "github": "https://github.com/rdevans87/ORM-ECommerce-BackEnd" ,
+        "deploy": "https://rdevans87.github.io/ORM-ECommerce-BackEnd/",
         "topic:": ,
     }
 
@@ -40,8 +40,8 @@
         "id": 5,
         "name": "NoteTaker App",
         "image": ,
-        "github": ,
-        "deploy": ,
+        "github":"https://github.com/rdevans87/Express.js_NoteTaker" ,
+        "deploy":"https://notetaker-expressjs.herokuapp.com/" ,
         "topic:": ,
     }
         
@@ -49,8 +49,8 @@
         "id": 6,
         "name": "ReadMe Generator",
         "image": ,
-        "github": ,
-        "deploy": ,
+        "github":"https://github.com/rdevans87/ReadMeGenerator_NodeJs",
+        "deploy":"https://rdevans87.github.io/ReadMeGenerator_NodeJs/" ,
         "topic:": ,
     }
 ]

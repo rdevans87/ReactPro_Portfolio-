@@ -1,5 +1,4 @@
 import React from 'react';
-import Index from 'index';
 import './project.css'
 
 function repoCards(props) {
@@ -31,4 +30,4 @@ function repoCards(props) {
 
 }
 
-export default repoCards;
+export default Project;

@@ -5,8 +5,8 @@ import '../Project/Project.css'
 function RepoCards(props) {
     return(
 
-    <section className="work">
-    {/* //        <h1>Work</h1> */}
+    <section className="project">
+
 
     <div className="container">
      <div className="card">
@@ -22,8 +22,8 @@ function RepoCards(props) {
            <p>{props.text}</p>
            <br></br>
            <p>{props.tools}</p>
-           <a href={props.github}><img src="https://img.icons8.com/fluent/48/4a90e2/github.png" alt="Repository" id="icon"/></a> 
-           <a href={props.deploy}><imd src="https://img.icons8.com/metro/26/000000/domain.png" alt="Deployed" id="icon"/></a>
+           <a href={props.github}><img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="30px" alt="Repository" id="icon"/></a> 
+           <a href={props.deploy}><img src="https://img.icons8.com/metro/26/000000/domain.png" alt="Deployed" id="icon"/></a>
          </div>
        </div>
     </div>

@@ -3,13 +3,13 @@
   margin: 0;
   
 }
-
+/* 
 .linear-gradient-background {
   background-image: linear-gradient(
     rgb(20, 19, 19),
     rgba(46, 45, 45, 0.6)
-  );
-}
+  ); */
+/* } */
 
 body {
   background: hsl(300, 2%, 18%);
@@ -18,14 +18,14 @@ body {
 
 }
 
-.work {
+.project {
     padding: 20px;
     flex-wrap: wrap;
     flex-direction: column;
   
 }
   
-  .work h1 {
+  .project h1 {
     font-size: 60px;
     text-align: center;
     color:#3eb6d7;

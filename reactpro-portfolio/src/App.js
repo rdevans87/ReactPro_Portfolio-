@@ -6,7 +6,6 @@ import Work from "./components/Work/Work";
 import Resume from "./components/Resume/Resume";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
-// import "../styles/Footer.css";
 import './App.css';
 
 //  import 'bootstrap/dist/css/bootstrap.min.css';
@@ -17,7 +16,7 @@ function App() {
     <div>
       {/* <Navbar /> */}
       <Header />
-      <About /> 
+      < About /> 
       < Work />
       <Resume /> 
       <Contact />

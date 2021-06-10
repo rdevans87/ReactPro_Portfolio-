@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
   
 }
 /* 
@@ -34,7 +35,7 @@ body {
     
   }
 
-.work h1:hover { 
+.project h1:hover { 
   text-shadow: 2px 2px 4px whitesmoke;
    
 }
@@ -47,6 +48,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-wrap:wrap;
+    /* background:  hsl(300, 2%, 18%); */
   
   }
   
@@ -58,6 +60,7 @@ body {
   .container .card{
     position: relative;
     padding-left: 10px;
+    /* background:  hsl(300, 2%, 18%); */
     
   }
   

@@ -1,5 +1,6 @@
 import React from "react";
 import RepoCards from "../Project/Project";
+// import Work from "../Work/Work";
 import work from "../../projects.json";
 import "./Work.css";
 
@@ -12,7 +13,8 @@ function Wrapper(props) {
 function Work() {
 
   return (
-    <section>
+    <section className="work">
+      <h1>Work</h1>
 
       <Wrapper>
         {work.map((project => (

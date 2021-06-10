@@ -1,11 +1,12 @@
 import React from 'react';
 import '../Project/Project.css'
+// import Work from '../Work/Work'
 
 function RepoCards(props) {
     return(
 
     <section className="work">
-           <h1>Work</h1>
+    {/* //        <h1>Work</h1> */}
 
     <div className="container">
      <div className="card">

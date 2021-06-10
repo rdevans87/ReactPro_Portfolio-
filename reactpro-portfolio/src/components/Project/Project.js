@@ -1,9 +1,12 @@
 import React from 'react';
 import './project.css'
 
-function repoCards(props) {
+function RepoCards(props) {
     return(
-    
+
+    <section className="work">
+           <h1>Work</h1>
+
     <div className="container">
      <div className="card">
         <img alt={props.name} src={props.image}/>
@@ -24,10 +27,11 @@ function repoCards(props) {
        </div>
     </div>
     </div>
+    </section>
 
 
     );
 
 }
 
-export default Project;
+export default RepoCards;

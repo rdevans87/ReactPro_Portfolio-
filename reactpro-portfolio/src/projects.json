@@ -2,55 +2,55 @@
     {
         "id": 1,
         "name": "petTrax" ,
-        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/petTrax.png",
-        "github":"https://github.com/rdevans87/pettrax", 
-        "deploy":"https://secret-coast-15963.herokuapp.com/",
-        "tools:": "MVC, Node.js, MySQL, Heroku, Clouinary, express"
+        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/petTrax.png",
+        "github": "https://github.com/rdevans87/pettrax", 
+        "deploy": "https://secret-coast-15963.herokuapp.com/",
+        "tools:": "MVC, Node.js, MySQL, Heroku, Cloudinary, ExpressJS"
     },
     {
         "id": 2,
         "name": "Employee Tracker",
-        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/employeeTracker.png" ,
-        "github":"https://github.com/rdevans87/MySQL-Employee-Tracker",
-        "deploy":"https://rdevans87.github.io/MySQL-Employee-Tracker/" ,
-        "tools:":"" 
+        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/employeeTracker.png" ,
+        "github": "https://github.com/rdevans87/MySQL-Employee-Tracker",
+        "deploy": "https://rdevans87.github.io/MySQL-Employee-Tracker/" ,
+        "tools:": "NodeJS, Git, MySQL, JSON, Chalk, Inquirer, Figlet " 
     },
     
     {
         "id": 3,
         "name": "Weather Dashboard",
         "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/weatherDashboard.png",
-        "github":"https://github.com/rdevans87/Weather-Dashboard-March-6-2021",
-        "deploy":"https://rdevans87.github.io/Weather-Dashboard-March-6-2021/",
-        "tools:":"" 
+        "github": "https://github.com/rdevans87/Weather-Dashboard-March-6-2021",
+        "deploy": "https://rdevans87.github.io/Weather-Dashboard-March-6-2021/",
+        "tools:": "HTML, CSS, JavaScript, Bootstrap, OpenWeather API" 
     },
 
 
     {
         "id": 4,
         "name": "E-Commerce Backend",
-        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/ecommerce.png" ,
+        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/ecommerce.png" ,
         "github": "https://github.com/rdevans87/ORM-ECommerce-BackEnd" ,
         "deploy": "https://rdevans87.github.io/ORM-ECommerce-BackEnd/",
-        "tools:":"" 
+        "tools:": "NodeJS, MySQL, Git, Insomnia, ExpressJS " 
     },
 
             
     {
         "id": 5,
         "name": "NoteTaker App",
-        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/noteTaker.png" ,
-        "github":"https://github.com/rdevans87/Express.js_NoteTaker" ,
-        "deploy":"https://notetaker-expressjs.herokuapp.com/" ,
-        "tools:":""   
+        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/noteTaker.png" ,
+        "github": "https://github.com/rdevans87/Express.js_NoteTaker" ,
+        "deploy": "https://notetaker-expressjs.herokuapp.com/" ,
+        "tools:": "HTML, CSS, JavaScript, NodeJS, JSON, Heroku, ExpressJS"   
     },
     
     {
         "id": 6,
         "name": "ReadMe Generator",
-        "image":"https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/goodReadMe.png" ,
-        "github":"https://github.com/rdevans87/ReadMeGenerator_NodeJs",
-        "deploy":"https://rdevans87.github.io/ReadMeGenerator_NodeJs/" ,
-        "tools:":"" 
-    },
+        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/goodReadMe.png" ,
+        "github": "https://github.com/rdevans87/ReadMeGenerator_NodeJs",
+        "deploy": "https://rdevans87.github.io/ReadMeGenerator_NodeJs/",
+        "tools:": "NodeJS, Git, InquirerJS, Cli" 
+    }
 ]

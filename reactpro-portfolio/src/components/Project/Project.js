@@ -1,7 +1,7 @@
 import REACT from 'react';
 import 
 
-function projectCards(props) {
+function repoCards(props) {
     return(
     
      <div className="container">

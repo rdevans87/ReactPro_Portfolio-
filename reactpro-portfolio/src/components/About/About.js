@@ -1,5 +1,5 @@
 import React from "react";
-// import "../components/about/About.css";
+import "../About/About";
 import "./About.css";
 
 // By importing the About.css file, it is added to the DOM whenever this component loads

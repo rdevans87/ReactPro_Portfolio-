@@ -1,11 +1,11 @@
 import React, {Component} from "react";
 import { Route, HashRouter } from "react-router-dom";
-// import Navbar from "../Navbar/Navbar";
+// // import Navbar from "../Navbar/Navbar";
 import About from "../About/About";
 import Work from "../Work/Work";
 import Resume from "../Resume/Resume";
 import Contact from "../Contact/Contact";
-// import "./Header.css"
+import "./Header.css"
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads
 
@@ -18,13 +18,13 @@ class Header extends Component {
         </header>
         <div className="conent">
      {/* <Route exact path="/" render={() => (<Redirect to="/about" />)} /> */}
-          {/* <Route path="/navbar" component={Navbar}/> */}
-          <Route path="/work" component={Work}/>
+          {/* <Route path="/navbar" component={Navbar}/> */} 
+           <Route path="/work" component={Work}/>
           <Route path="/resume" component={Resume}/>
           <Route path="/contact" component={Contact}/>
           <Route path="/about" component={About}/>
-        </div>
-      </HashRouter>
+            </div>
+          </HashRouter>
     )
 
   }

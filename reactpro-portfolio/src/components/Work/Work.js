@@ -1,8 +1,8 @@
 import React from "react";
 import RepoCards from "../Project/Project";
 import work from "../../projects.json";
-import "../Work/Work.css";
-// import "./Project.css";
+import "../Work/Work.css"
+// import "./Project/Project";
 
 function Wrapper(props) {
   return <div className="wrapper">{props.children}</div>;

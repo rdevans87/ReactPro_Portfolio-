@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Employee Tracker",
-        "image": "../assets/employeeTracker.png" ,
+        "image": "./components/Assets/employeeTracker.png" ,
         "github": "https://github.com/rdevans87/MySQL-Employee-Tracker",
         "deploy": "https://rdevans87.github.io/MySQL-Employee-Tracker/" ,
         "tools": "NodeJS, Git, MySQL, JSON, Chalk, Inquirer, Figlet " 

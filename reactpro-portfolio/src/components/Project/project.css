@@ -1,9 +1,9 @@
-* {
+/* * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   
-}
+} */
 /* 
 .linear-gradient-background {
   background-image: linear-gradient(
@@ -52,15 +52,14 @@ body {
   
   }
   
-  /* .card{
-    flex-wrap: wrap;
-    float: left;
-    margin-top: -30px;
-  } */
+  .card{
+   background:  hsl(300, 2%, 18%);
+  } 
+
   .container .card{
     position: relative;
     padding-left: 10px;
-    /* background:  hsl(300, 2%, 18%); */
+    
     
   }
   

@@ -1,6 +1,6 @@
 import React from 'react';
-import '../Project/Project.css'
-// import Project from '../Work/Work'
+import "../Project/Project.css"
+// import'../Work/Work'
 
 function RepoCards(props) {
     return(

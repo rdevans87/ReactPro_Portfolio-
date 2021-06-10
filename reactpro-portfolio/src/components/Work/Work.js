@@ -11,15 +11,15 @@ import "./Work.css";
 // By importing the Work.css file, it is added to the DOM whenever this component loads
 function Work() {
   
-  
   return (
     <section>
       {work.map((project => (
-  <ProjectCards key={project.id} image={project.image} name={project.name} 
+  <RepoCards key={project.id} image={project.image} name={project.name} 
+  github={project.github} deploy={project.deploy} tools={project.tools}/>)))};
 
-  </ProjectCards>
-
-    </section>
+  </section>
+  
+  
   );
 }
 

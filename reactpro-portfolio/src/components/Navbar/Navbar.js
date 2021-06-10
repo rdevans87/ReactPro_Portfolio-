@@ -1,6 +1,6 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
-import "./Navbar.css";
+// import "./Navbar.css";
 
 // By importing the Navbar.css file, it is added to the DOM whenever this component loads
 

@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, {Component} from "react";
 import { Route, Redirect, HashRouter } from "react-router-dom";
 import Navbar from "../../Navbar/Navbar";
 import About from "../../About/About";
@@ -29,9 +29,6 @@ class Header extends Component {
 
   }
 }
-
-
-
 
 
 export default Header;

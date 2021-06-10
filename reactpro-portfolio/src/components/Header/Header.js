@@ -5,14 +5,14 @@ import About from "../About/About";
 import Work from "../Work/Work";
 import Resume from "../Resume/Resume";
 import Contact from "../Contact/Contact";
-import "./Header.css";
+import "./Header.css"
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads
 
 class Header extends Component {
   render() {
     return (
-      <Hashrouter>
+      <HashRouter>
         <header className="header">
           <div><h1>Ryan Evans</h1></div>
         </header>
@@ -24,7 +24,7 @@ class Header extends Component {
           <Route path="/contact" component={Contact}/>
           <Route path="/about" component={About}/>
         </div>
-      </Hashrouter>
+      </HashRouter>
     )
 
   }

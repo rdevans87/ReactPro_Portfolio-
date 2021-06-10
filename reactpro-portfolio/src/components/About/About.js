@@ -18,7 +18,7 @@ function About() {
       <br></br>
       Open to independent projects, collaborative opportunities, and contract-to-hire positions. Knowledge of front-end languages and third-party frameworks for building mobile responsive web applications. Experience with DOM manipulation and JSON data integration with server-side APIs.
       <br></br>
-      View my full <a href="#/resume" className="resume"></a>
+      View my full <a href="reactpro-portfolio/src/assets/PorfolioResume_RyanEvans.pdf" className="resume">Resume</a>
       
       </p>
       

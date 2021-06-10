@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import "../src/Contact/Contact.css";
+// import React, { useState } from "react";
+import "../Contact/Contact.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // By importing the Contact.css file, it is added to the DOM whenever this component loads

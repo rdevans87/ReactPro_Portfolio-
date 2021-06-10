@@ -57,6 +57,6 @@
         "github": "https://github.com/rdevans87/ReadMeGenerator_NodeJs",
         "deploy": "https://rdevans87.github.io/ReadMeGenerator_NodeJs/",
         "summary": "Summary: Backend App for generating a ReadMe.md file.",
-        "tools:": "Tools: NodeJS, Git, InquirerJS, CLI"
+        "tools": "Tools: NodeJS, Git, InquirerJS, CLI"
     }
 ]

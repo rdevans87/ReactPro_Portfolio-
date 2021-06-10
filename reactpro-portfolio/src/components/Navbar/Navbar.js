@@ -1,25 +1,24 @@
-// import React from "react";
-// import { NavLink } from "react-router-dom";
-// import "./Navbar.css";
+import React from "react"
+import "../Navbar/Navbar.css";
 
-// // By importing the Navbar.css file, it is added to the DOM whenever this component loads
+// By importing the Navbar.css file, it is added to the DOM whenever this component loads
 
-// function Navbar() {
-//   return (
+function Navbar() {
+  return (
+
   
-//     <div className="navbar">
-//       <NavLink to="/contact">Contact</NavLink>
-//       <NavLink to="/resume">Resume</NavLink>
-//       <NavLink to="/work">Work</NavLink>
-//       <NavLink to="/about">About</NavLink>
-//       <p>Professional Portfolio</p>
-//     </div>
+    <nav className="navbar">
+      <a href="/contact">Contact</a>
+      <a href="/resume">Resume</a>
+      <a href="/work">Work</a>
+      <a href="/about">About</a>
+      <p>Professional Portfolio</p>
+    </nav>
     
-//   );
-// }
+  );
+}
 
-// export default Navbar;
-
-
+export default Navbar;
+  
 
 

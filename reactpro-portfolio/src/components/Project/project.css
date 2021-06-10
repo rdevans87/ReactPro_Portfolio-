@@ -51,10 +51,12 @@ body {
     /* background:  hsl(300, 2%, 18%); */
   
   }
-  
-  .card{
-   background:  hsl(300, 2%, 18%);
-  } 
+
+  .card1 {
+    background-image: url(../../assets/petTrax.png)
+
+  }
+   
 
   .container .card{
     position: relative;

@@ -19,7 +19,7 @@ function Work() {
       <Wrapper>
         {work.map((project => (
           <RepoCards key={project.id} image={project.image} name={project.name}
-            github={project.github} deploy={project.deploy} tools={project.tools} />)))};
+            github={project.github} deploy={project.deploy} summary={project.summary} tools={project.tools} />)))};
 
  </Wrapper>
 

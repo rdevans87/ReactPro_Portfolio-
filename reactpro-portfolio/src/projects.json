@@ -5,15 +5,17 @@
         "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/petTrax.png",
         "github": "https://github.com/rdevans87/pettrax", 
         "deploy": "https://secret-coast-15963.herokuapp.com/",
-        "tools": "MVC, Node.js, MySQL, Heroku, Cloudinary, ExpressJS"
+        "summary": "Summary: A simple App for tracking and logging your pet's daily rhythms .",
+        "tools": "Tools: MVC, Node.js, MySQL, Heroku, Cloudinary, ExpressJS"
     },
     {
         "id": 2,
         "name": "Employee Tracker",
-        "image": "./components/Assets/employeeTracker.png" ,
+        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/reactpro-portfolio/src/assets/employeeTracker.png" ,
         "github": "https://github.com/rdevans87/MySQL-Employee-Tracker",
         "deploy": "https://rdevans87.github.io/MySQL-Employee-Tracker/" ,
-        "tools": "NodeJS, Git, MySQL, JSON, Chalk, Inquirer, Figlet " 
+        "summary": "Summary: Backend solution for managing a company's employees using node, inquirer, and MySQL.",
+        "tools": "Tools: NodeJS, Git, MySQL, JSON, Chalk, Inquirer, Figlet " 
     },
     
     {
@@ -22,7 +24,8 @@
         "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/weatherDashboard.png",
         "github": "https://github.com/rdevans87/Weather-Dashboard-March-6-2021",
         "deploy": "https://rdevans87.github.io/Weather-Dashboard-March-6-2021/",
-        "tools": "HTML, CSS, JavaScript, Bootstrap, OpenWeather API" 
+        "summary": "Summary: Weather App that provides current and future weather forecasts for United States.",
+        "tools": "Tools: HTML, CSS, JavaScript, Bootstrap, OpenWeather API" 
     },
 
 
@@ -32,7 +35,8 @@
         "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/ecommerce.png" ,
         "github": "https://github.com/rdevans87/ORM-ECommerce-BackEnd" ,
         "deploy": "https://rdevans87.github.io/ORM-ECommerce-BackEnd/",
-        "tools": "NodeJS, MySQL, Git, Insomnia, ExpressJS " 
+        "summary": "Summary: Backend of an E-Commerce site using HTTP requests to modify inventory.",
+        "tools": "Tools: NodeJS, MySQL, Git, Insomnia, ExpressJS " 
     },
 
             
@@ -42,7 +46,8 @@
         "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/noteTaker.png" ,
         "github": "https://github.com/rdevans87/Express.js_NoteTaker" ,
         "deploy": "https://notetaker-expressjs.herokuapp.com/" ,
-        "tools": "HTML, CSS, JavaScript, NodeJS, JSON, Heroku, ExpressJS"  
+        "summary": "Summary: Note Taker App to write and save nots with ExpressJS.",
+        "tools": "Tools: HTML, CSS, JavaScript, NodeJS, JSON, Heroku, ExpressJS"  
     },
     
     {
@@ -51,6 +56,7 @@
         "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/goodReadMe.png" ,
         "github": "https://github.com/rdevans87/ReadMeGenerator_NodeJs",
         "deploy": "https://rdevans87.github.io/ReadMeGenerator_NodeJs/",
-        "tools:": "NodeJS, Git, InquirerJS, Cli"
+        "summary": "Summary: Backend App for generating a ReadMe.md file.",
+        "tools:": "Tools: NodeJS, Git, InquirerJS, CLI"
     }
 ]

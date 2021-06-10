@@ -7,8 +7,9 @@ function Resume() {
     <section className="resume">
       <h2>Resume</h2>
       <div>
-      <h3>Skills:</h3>
       <img src="" width="300px" alt="profile" className="profile"></img> 
+      <h3>Skills:</h3>
+      <img src="../../assets/icons/html5.png" width="300px" alt="html5" className="profile"></img> 
        <h3>Certificates:</h3>
        <ul>
          <li>Full Stack Coding Bootcamp (2021)</li>

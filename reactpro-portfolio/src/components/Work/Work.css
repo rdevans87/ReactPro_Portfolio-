@@ -12,10 +12,10 @@
 } */
 
 body {
-  background: hsl(300, 2%, 18%);
+  
   flex-direction: column;
   max-width: 100%;
-
+  background: hsl(300, 2%, 18%);
 }
 
 /* .wrapper{
@@ -33,7 +33,6 @@ body {
     font-size: 60px;
     text-align: center;
     color:#3eb6d7;
-    ;
     text-shadow: 4px 4px 4px #000;
     
   }
@@ -62,14 +61,22 @@ body {
   .container .card{
     position: relative;
     padding-left: 10px;
-    /* background:  hsl(300, 2%, 18%); */
+    background:  hsl(300, 2%, 18%);
     
   }
 
-  .card1 {
+  /* .card1 {
     background-image: url(../../assets/petTrax.png)
 
-  }
+  } */
+
+  /* .screenshot {
+    width: 300px;
+    height: 200px;
+    transition:.4s;
+    
+  } */
+  
   
   .container .card .face{
     width:300px;
@@ -80,7 +87,7 @@ body {
   
   .container .card .face.face1{
     position: relative;
-    background: #333;
+    /* background: #333; */
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -106,9 +113,10 @@ body {
   
   
   .container .card .face.face1 .content{
-    opacity: .2;
+    /* opacity: .2; */
     transition:  0.5s;
     text-align: center;
+    background: hsl(300, 2%, 18%);
     
 
   }
@@ -147,6 +155,7 @@ body {
    box-sizing: border-box;
    box-shadow: 0 20px 50px rgba(0,0,0,.8);
    transform: translateY(-170px);
+  
  }
  
  .container .card:hover .face.face2{
@@ -209,7 +218,7 @@ body {
 }
 
 
- @media screen and (max-width: 770px) {
+ /* @media screen and (max-width: 770px) {
 
   .container{
     width: 200px;
@@ -223,13 +232,13 @@ body {
   }
    
   .container .card .face.face1 {
-    /* float: left; */
+    float: left;
     justify-content: center;
     flex: column;
     column-count: 2;
    
 
-  }
+  } */
 
   .container .card .face.face2 {
     position: relative;
@@ -283,10 +292,10 @@ body {
 
 
 
-}
 
 
-@media screen and (max-width: 770px) {
+
+/* @media screen and (max-width: 770px) {
 
   .container{
     width: 200px;
@@ -328,4 +337,4 @@ body {
   
   }
 
-}
+} */

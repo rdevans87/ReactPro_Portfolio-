@@ -11,7 +11,7 @@
     {
         "id": 2,
         "name": "Employee Tracker",
-        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/reactpro-portfolio/src/assets/employeeTracker.png" ,
+        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/998fe430398b539ca9a88ea1087ce5893a1ffbb2/reactpro-portfolio/src/assets/employeeTracker.png" ,
         "github": "https://github.com/rdevans87/MySQL-Employee-Tracker",
         "deploy": "https://rdevans87.github.io/MySQL-Employee-Tracker/" ,
         "summary": "Summary: Backend solution for managing a company's employees using node, inquirer, and MySQL.",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "name": "E-Commerce Backend",
-        "image": "https://github.com/rdevans87/ReactPro_Portfolio/blob/main/ryansreactapp/src/assets/ecommerce.png" ,
+        "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/ecomm.png" ,
         "github": "https://github.com/rdevans87/ORM-ECommerce-BackEnd" ,
         "deploy": "https://rdevans87.github.io/ORM-ECommerce-BackEnd/",
         "summary": "Summary: Backend of an E-Commerce site using HTTP requests to modify inventory.",

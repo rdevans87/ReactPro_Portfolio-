@@ -1,6 +1,6 @@
 import React from 'react';
 import "../Project/Project.css"
-// import'../Work/Work'
+
 
 function RepoCards(props) {
     return(
@@ -12,7 +12,7 @@ function RepoCards(props) {
      <div className="card">
        <div className="face face1">
          <div className="content">  
-         <img src={props.image} alt={props.name}/>       
+         <img className="screenshot" src={props.image} alt={props.name}/>       
            <h3>{props.name}</h3>
          </div>
        </div>

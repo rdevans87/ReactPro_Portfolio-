@@ -1,10 +1,11 @@
-import REACT from 'react';
-import 
+import React from 'react';
+import Index from 'index';
+import './project.css'
 
 function repoCards(props) {
     return(
     
-     <div className="container">
+    <div className="container">
      <div className="card">
         <img alt={props.name} src={props.image}/>
        <div className="face face1">
@@ -30,11 +31,4 @@ function repoCards(props) {
 
 }
 
-
-
-
-
-
-
-
-}
+export default repoCards;

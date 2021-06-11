@@ -15,16 +15,20 @@ function Contact() {
       <h2>Contact</h2>
       <form class="justify-content-center" id="contactForm">
       <div>
-      <label htmlFor="name" placeholder="full name"></label>
-      <input className="form-control" type="text" name="name"></input>
+      <label htmlFor="name"></label>
+      <input className="form-control" type="text"  placeholder="full name" name="name"></input>
       </div>
       <div>
-      <label htmlFor="email" placeholder="email"></label>
-      <input className="form-control" type="text" name="name"></input>
+      <label htmlFor="email"></label>
+      <input className="form-control" type="text" placeholder="email" name="email"></input>
       </div>
       <div>
-      <label htmlFor="message" placeholder="message"></label>
-      <textarea className="form-control" type="text" name="name"></textarea>
+      <label htmlFor="phone"></label>
+      <input className="form-control" type="text" placeholder="phone" name="phone"></input>
+      </div>
+      <div>
+      <label htmlFor="message"></label>
+      <textarea className="form-control" type="text" placeholder="message" name="name"></textarea>
       </div>
       <div>
       <button className="btn btn-primary my-4" type="submit" onSubmit={handleSubmit}>Submit</button>

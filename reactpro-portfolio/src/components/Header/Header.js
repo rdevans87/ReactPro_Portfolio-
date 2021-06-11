@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import { Route, HashRouter } from "react-router-dom";
+import { Route, Redirect, HashRouter } from "react-router-dom";
 import Navbar from "../Navbar/Navbar";
 import About from "../About/About";
 import Work from "../Work/Work";
@@ -17,9 +17,9 @@ class Header extends Component {
           <div><h1>Ryan Evans</h1></div>
         </header>
         <div className="content">
-      {/* <Route exact path="/" render={() => (<Redirect to="/about" />)} />  */}
+          <Route exact path="/about" render={() => (<Redirect to="/about" />)} /> 
           <Route path="/navbar" component={Navbar}/> 
-            <Route path="/work" component={Work}/>
+          <Route path="/work" component={Work}/>
           <Route path="/resume" component={Resume}/>
           <Route path="/contact" component={Contact}/>
           <Route path="/about" component={About}/>

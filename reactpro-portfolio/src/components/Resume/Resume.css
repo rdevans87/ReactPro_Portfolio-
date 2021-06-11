@@ -5,24 +5,32 @@
 }
 
  .resume {
+  font-size: 20px;
   background: #2e2c2e;
-  padding: 30px;
-  margin-right: 40px;
+  padding: 20px;;
+  padding-left: 30px;
   color: white;
+  text-shadow: 2px 2px 4px #000;
  
 
   
 } 
 
-.resume h2 {
+.resume h1 {
 
   font-size: 60px;
   text-align: center;
   color: #3eb6d7;
   text-shadow: 4px 4px 4px #000;
+
   
 }
 
-.resume h2:hover {
+.resume h1:hover {
   text-shadow: 4px 4px 4px whitesmoke;
+}
+
+.resume h2 {
+
+  
 }

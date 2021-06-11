@@ -15,9 +15,6 @@ function Navbar() {
       <a href="#/resume">Resume</a>
       <a href="#/contact">Contact</a>
       
-      
-     
-      
     </nav>
     
   );

@@ -3,30 +3,21 @@
   margin: 0;
   
 }
-/* 
-.linear-gradient-background {
-  background-image: linear-gradient(
-    rgb(20, 19, 19),
-    rgba(46, 45, 45, 0.6)
-  );
-} */
+
 
 body {
   
   flex-direction: column;
   max-width: 100%;
   background: hsl(300, 2%, 18%);
-}
+} 
 
-/* .wrapper{
-  background:  hsl(300, 2%, 18%);
-} */
 
 .work {
-    padding: 30px;
-    flex-wrap: wrap;
+  margin-bottom: 100px;
+    /* flex-wrap: wrap;
     flex-direction: column;
-  
+   */
 }
   
   .work h1 {
@@ -42,27 +33,6 @@ body {
    
 }
 
-.card1{
-  z-index: 100;
-  
-  
-}
-
-   /* .container{
-    width: 100%;
-    padding-top: 10px;
-    position: relative;
-    display: flex; */
-    /* justify-content: space-between; */
-    /* flex-wrap:wrap; */
-    /* background: hsl(300, 2%, 18%); */
-   /* }
-    */
-  /* .card{
-    flex-wrap: wrap;
-    float: left;
-    margin-top: -30px;
-  } */
 
   .screenshot {
     width: 300px;
@@ -76,62 +46,68 @@ body {
   } */
 
   div.card{
-    width: 300px;
-    height: 300px;
-    float: right;
-    display: block;
-    /* justify-content: space-around; */
-  }
-
-  .card {
-    z-index:6;
-  }
-
-/* 
-.container {
-  position: relative;
-  flex-wrap: wrap;
-  justify-content: space-around;
-
-  
-}
-   */
-  .container .card{
-    padding-top: 20px;
-    background:  hsl(300, 2%, 18%);
-    display: relative;
-  }
-
-  /* .card1 {
-    background-image: url(../../assets/petTrax.png)
-
-  } */
-
-  /* .screenshot {
+    position: relative;
     width: 300px;
     height: 200px;
-    transition:.4s;
+    float: right;
+    display: inline;
+    flex-direction: row;
+    justify-content: center;
+    /* margin-left: 40px; */
+  }
+
+ 
+
+ 
+ .container {
+  position: relative;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  
+} 
+
+.footer img{
+
+  position: inline-block;
+  align-items: center; 
+  text-decoration: none;
+  padding: 18px 15px; 
+  padding-bottom: 10px;
+
+}
+   
+  .container .card{
+    margin-top: 30px;
+    justify-content: center;
+    margin-right: 30px;
+    background:  hsl(300, 2%, 18%);
+    position: relative;
+    margin-bottom: 100px;
     
-  } */
+  }
+
   
   
   .container .card .face{
-    width:300px;
-  height: 200px; 
-  transition:.4s;
-  display: flex;
+   width:300px;
+   height: 200px; 
+   transition:.4s;
    background:  hsl(300, 2%, 18%);
+  
     
   }
+ 
   
   .container .card .face.face1{
+    margin-top: -17px;
     position: relative;
-    background: #333; 
-    /* display: inline-block; */
+    /* background: #333;  */
+    display: flex;
     justify-content: center;
     align-content:center;
     align-items: center;
-    z-index: 1;
+    z-index: 2;
     transform: translateY(30px);
   } 
   
@@ -222,125 +198,3 @@ body {
    color: whitesmoke; 
    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
  }
-
- /* .card1{
-   z-index: 1;
-   
-   
- }
- .card2{
-     z-index:5;
-   
-}
-.card3{
-    z-index: 4;
-   
-}
-
-.card4{
-    z-index: 3;
-    position: relative;
-   
-}
-.card5{
-    z-index: 2;
-    position: relative;
-    margin-top: -155px;
-}
-.card6{
-    z-index: 1;
-    position: relative;
-    margin-top: -155px;
-} */
-
-
- /* @media screen and (max-width: 770px) {
-
-  .container{
-    width: 200px;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    flex-wrap:wrap;
-    margin-left: 190px;
-
-
-  }
-   
-  .container .card .face.face1 {
-    float: left;
-    justify-content: center;
-    flex: column;
-    column-count: 2;
-   
-
-  } */
-
-  /* .container .card .face.face2 {
-    position: relative;
-    
-  }
-
-  .card1 .card2 .card3 .card4 .card5 .card6 {
-    columns: 2
-
-  }
-
-  .card.card1 {
-    z-index: 6;
-  
-   
-  } */
-
-
-
-
-
-
-
-
-
-
-/* @media screen and (max-width: 770px) {
-
-  .container{
-    width: 200px;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    flex-wrap:wrap;
-    margin-left: -12px;
-  
-  }
-}
-
-  
-  @media screen and (max-width: 500px) {
-
-    .container{
-      width: 200px;
-      position: relative;
-      display: flex;
-      flex-direction: column;
-      flex-wrap:wrap;
-      margin-left: 45px;
-    
-  
-    }
-  
-}
-
-
-@media screen and (max-width: 380px) {
-
-  .container{
-    width: 200px;
-    position: relative;
-    float: left;
-    display: flex;
-    flex-direction: column;
-    margin-left: -10px;
-  
-  }
-
-} */

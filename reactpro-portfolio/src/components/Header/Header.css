@@ -1,6 +1,6 @@
 .header {
   /* background: #222020; */
-  height: 250px;
+  height: 225px;
   background-image: url("../../assets/blurred-magenta-and-cyan-sparks.png");
   background-size: cover;
   max-width:100%;
@@ -25,6 +25,8 @@
 
   .header h1{
     padding-top: 20px;
+    font-size: 55px;
+    line-height: 6;
 
   }
 }

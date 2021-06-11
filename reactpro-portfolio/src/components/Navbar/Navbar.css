@@ -1,19 +1,24 @@
 .navbar {
+  position: relative;
   background: #1a1a1a;
-  height: 100px;
-  padding-right: 10px;
+  height: 80px;
+  margin: 20px 0 0 ;
+  padding: 10px 0;
   
 }
 
 .navbar a{
   color: #3eb6d7;
   /* display: block; */
-  float: left;
+  position: relative;
+  float: right;
+  /* margin: 15px; */
+  margin-left: px;
   margin-right: 20px;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   text-decoration: none;
-  padding: 14px 15px;
-  margin-top: 15px;
+  padding: 12px 13px;
+  margin-top: 10px;
   box-shadow: 0 6px 8px 0 #3eb6d7;
   text-shadow: 2px 2px 4px #000;
 }
@@ -30,9 +35,9 @@
   font-size: 1.7rem;
   text-decoration: none;
   padding: 18px 15px;
-  margin-top: 20px;
+  margin-top: 15px;
   margin-left: 20px;
-  margin-right: 200px;
+  margin-right: 300px;
   box-shadow: 0 6px 8px 0 #c42afe;
   text-shadow: 2px 2px 4px #000;
 
@@ -43,52 +48,74 @@
 }
 
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1500px) {
+  .navbar p{
+  margin-right: 300px;
+}
+
+.header h1{ 
+  font-size: 15px;
+}
+
+.header img{
+  height: 200px;
+}
+
+ }
+
+@media screen and (max-width: 1200px) {
   .navbar p{
   margin-right: 100px;
 }
 
 }
 
-@media screen and (max-width: 870px) {
+@media screen and (max-width: 900px) {
   .navbar p{
-  margin-right: 10px;
+  margin-right: 5px;
 }
+.navbar a{
+  float: left;
+  flex-direction: row;
+}
+
 }
 
 @media screen and (max-width: 768px) {
-    .navbar a{
-     display: none;
-}
 
     .navbar p{
       margin: 10px;
-      margin-left: 125px;
+      margin-left: 215px;
     }
   }
 
   @media screen and (max-width: 500px) {
-    .navbar a{
-     display: none;
-}
+ 
 
     .navbar p{
       margin: 10px;
       margin-left: 110px;
     }
-  }
+  } 
 
 
 
-  @media screen and (max-width: 375px) {
+  @media screen and (max-width: 376px) {
     .navbar a{
-     display: none;
+     font-size: 20px;
+     padding: 8px 8px;
+     margin-left: 10px;
+   
 }
 
     .navbar p{
-      font-size: 24px;
+      font-size: 18px;
+      padding: 8px 8px;
       margin: 10px;
-      margin-left: 65px;
+      margin-right: 100px;
+      margin-left: 80px;
     }
-  }
+
+   
+} 
 

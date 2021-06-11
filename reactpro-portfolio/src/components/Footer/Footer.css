@@ -1,21 +1,27 @@
 .footer{
+  position: relative;
     background: #1a1a1a;
     height: 110px;
     text-align: center;
-   
+
 }
 
 
   .footer img{
-
-    position: relative;
+    display: inline-block;
     align-items: center; 
     text-decoration: none;
     padding: 18px 15px; 
     padding-bottom: 10px;
 
+
   }
 
+  .src:hover{
+    text-shadow: 2px 2px 4px whitesmoke;
+
+
+  }
 
   @media screen and (max-width: 768px) {
 

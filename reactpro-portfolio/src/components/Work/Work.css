@@ -4,6 +4,16 @@
   
 }
 
+.wrapper{
+  /* overflow: auto; */
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  padding: 10px;
+  
+}
+
 
 body {
   
@@ -14,10 +24,10 @@ body {
 
 
 .work {
-  margin-bottom: 100px;
-    /* flex-wrap: wrap;
-    flex-direction: column;
-   */
+  /* margin-bottom: -40px; */
+  flex-direction: column;
+
+  
 }
   
   .work h1 {
@@ -51,10 +61,10 @@ body {
     height: 200px;
     float: right;
     display: inline;
+    /* flex: left; */
     flex-direction: row;
-    justify-content: center;
-    /* margin-left: 40px; */
-  }
+    /* justify-content: center; */
+   }
 
  
 
@@ -67,18 +77,10 @@ body {
   
 } 
 
-.footer img{
-
-  position: inline-block;
-  align-items: center; 
-  text-decoration: none;
-  padding: 18px 15px; 
-  padding-bottom: 10px;
-
-}
    
   .container .card{
     margin-top: 30px;
+
     justify-content: center;
     margin-right: 30px;
     background:  hsl(300, 2%, 18%);

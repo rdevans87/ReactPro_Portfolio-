@@ -10,9 +10,9 @@ function Resume() {
       <div>
       <img src="" width="300px" alt="profile" className="profile"></img> 
       <h3>Skills:</h3>
-      <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/bootstrap.png" width="60px" alt="bootstrap" className="profile"></img> 
-      <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/bootstrap.png" width="60px" alt="bootstrap" className="profile"></img> 
-      <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/bootstrap.png" width="60px" alt="bootstrap" className="profile"></img> 
+      <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/html5.png" width="60px" alt="HTML5" className="profile"></img> 
+      <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/css3.png" width="60px" alt="CSS3" className="profile"></img> 
+      <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/bootstrap.png" width="60px" alt="Bootstrap" className="profile"></img> 
        <h3>Certificates:</h3>
        <ul>
          <li>Full Stack Coding Bootcamp (2021)</li>
@@ -23,11 +23,14 @@ function Resume() {
       <br></br>
        <h3>Employment:</h3>
        <br></br>
-       Customer Service Specialist @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/icons8-imdb.png" width="60px" alt="imdb"/>
+       Customer Service Specialist @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/icons8-imdb.png"width="60px" alt="imdb"/>
        <br></br>
-       Sr. Technical Support Analyst @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/castncrew.png" width="80px" alt="castandcrew"/>
+       <br></br>
+       Sr. Technical Support Analyst @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/castncrew.png" width="70px" alt="castandcrew"/>
       <br></br>
-      Sales Support Associate @
+      <br></br>
+      Sales Support Associate @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/finaldraft.png" width="80px" height="30px" alt="finaldraft"/>
+      <br></br>
       <br></br>
       <h3>Education:</h3>
       <br></br>

@@ -5,10 +5,14 @@
   
 }
 
+body{
+height: 100px;
+}
+
 .contact {
     background: #2e2c2e;
     padding: 60px;
-    padding-bottom: 50px;
+    padding-bottom: 90px;
     color: white;
   }
   

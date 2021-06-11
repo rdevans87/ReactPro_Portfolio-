@@ -10,10 +10,10 @@ function Navbar() {
   
     <nav className="navbar">
       <p>Professional Portfolio</p>
-      <a href="#/about">About</a>
-      <a href="#/work">Work</a>
-      <a href="#/resume">Resume</a>
-      <a href="#/contact">Contact</a>
+      <a href="#/about" className="nav1">About</a>
+      <a href="#/work" className="nav2">Work</a>
+      <a href="#/resume" className="nav3">Resume</a>
+      <a href="#/contact" className="nav4">Contact</a>
       
     </nav>
     

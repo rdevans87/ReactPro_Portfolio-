@@ -31,7 +31,7 @@ function Resume() {
       B.A. Communication and Media Studies.
       </div>
       <div>
-        <p>View or Download my full <a href="http://localhost:52330/reactpro-portfolio/src/assets/PorfolioResume_RyanEvans.pdf" target="_blank">Resume.</a></p>
+        <p>View or Download my full <a href="http://localhost:52330/reactpro-portfolio/src/assets/PorfolioResume_RyanEvans.pdf" rel="noreferrer" target="_blank" >Resume.</a></p>
         
       </div>
     </section>

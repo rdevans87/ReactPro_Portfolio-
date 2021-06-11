@@ -23,7 +23,7 @@ body {
 } */
 
 .work {
-    padding: 20px;
+    padding: 30px;
     flex-wrap: wrap;
     flex-direction: column;
   
@@ -42,27 +42,64 @@ body {
    
 }
 
+.card1{
+  z-index: 100;
+  
+  
+}
 
-  .container{
+   /* .container{
     width: 100%;
     padding-top: 10px;
     position: relative;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap:wrap;
+    display: flex; */
+    /* justify-content: space-between; */
+    /* flex-wrap:wrap; */
     /* background: hsl(300, 2%, 18%); */
-  }
-  
+   /* }
+    */
   /* .card{
     flex-wrap: wrap;
     float: left;
     margin-top: -30px;
   } */
-  .container .card{
-    position: relative;
-    padding-left: 10px;
-    background:  hsl(300, 2%, 18%);
+
+  .screenshot {
+    width: 300px;
+    height: 200px;
+  
     
+  }
+
+  /* .project {
+    display: flex;
+  } */
+
+  div.card{
+    width: 300px;
+    height: 300px;
+    float: right;
+    display: block;
+    /* justify-content: space-around; */
+  }
+
+  .card {
+    z-index:6;
+  }
+
+/* 
+.container {
+  position: relative;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  
+}
+   */
+  .container .card{
+    padding-top: 20px;
+    background:  hsl(300, 2%, 18%);
+    display: relative;
   }
 
   /* .card1 {
@@ -80,22 +117,23 @@ body {
   
   .container .card .face{
     width:300px;
-    height: 200px;
-    transition:.4s;
+  height: 200px; 
+  transition:.4s;
+  display: flex;
+   background:  hsl(300, 2%, 18%);
     
   }
   
   .container .card .face.face1{
     position: relative;
-    /* background: #333; */
-    display: flex;
-    flex-direction: row;
+    background: #333; 
+    /* display: inline-block; */
     justify-content: center;
     align-content:center;
     align-items: center;
     z-index: 1;
     transform: translateY(30px);
-  }
+  } 
   
   .container .card:hover .face.face1{
     transform: translateY(0);
@@ -129,15 +167,15 @@ body {
   .container .card .face.face1 .content i{
     font-size: 3em;
     color: white;
-    display: inline-block;
+    display: flex;
   }
   
-  .container .card .face.face1 .content h3{
+.container .card .face.face1 .content h3{
     font-size: 1em;
     color: white;
     text-align: center;
-  
-  }
+   
+ }
   
   .container .card .face.face1 .content a{
      transition: .5s;
@@ -148,8 +186,6 @@ body {
   .container .card .face.face2{
     position: relative;
     background: whitesmoke;
-    display: flex;
-    align-items: center;
     justify-content: center;
     padding: 20px;
    box-sizing: border-box;
@@ -187,8 +223,8 @@ body {
    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
  }
 
- .card1{
-   z-index: 6;
+ /* .card1{
+   z-index: 1;
    
    
  }
@@ -204,7 +240,7 @@ body {
 .card4{
     z-index: 3;
     position: relative;
-    margin-top: -155px;
+   
 }
 .card5{
     z-index: 2;
@@ -215,7 +251,7 @@ body {
     z-index: 1;
     position: relative;
     margin-top: -155px;
-}
+} */
 
 
  /* @media screen and (max-width: 770px) {
@@ -240,7 +276,7 @@ body {
 
   } */
 
-  .container .card .face.face2 {
+  /* .container .card .face.face2 {
     position: relative;
     
   }
@@ -254,41 +290,11 @@ body {
     z-index: 6;
   
    
-  }
-
-  .card.card2{
-    z-index: 5;
-    margin-top: -157px;
-    
-    
-  }
-
-  .card.card3{
-  z-index:4;
-  position: relative;
-  margin-top: -155px;
-  }
+  } */
 
 
-  .card.card4{
-    z-index:3;
-    position: relative;
-    margin-top: -155px;
-    }
 
 
-  .card.card5{
-    z-index:2;
-    position: relative;
-    margin-top: -155px;
-    }
-
-
-  .card.card6{
-    z-index:1;
-    position: relative;
-    margin-top: -155px;
-    }
 
 
 

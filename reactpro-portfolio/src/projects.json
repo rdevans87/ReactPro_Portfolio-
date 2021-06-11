@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "petTrax" ,
+        "name": "PetTrax" ,
         "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/petTrax.png",
         "github": "https://github.com/rdevans87/pettrax", 
         "deploy": "https://secret-coast-15963.herokuapp.com/",

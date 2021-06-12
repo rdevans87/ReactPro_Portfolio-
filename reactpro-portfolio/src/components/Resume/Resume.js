@@ -25,28 +25,34 @@ function Resume() {
       <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/json.png" width="60px" alt="JSON" ></img> 
       
       <br></br>
-       <h3>Certificates:</h3>
+       <h3>Certifications:</h3>
        <ul>
          <li>Full Stack Coding Bootcamp (2021)</li>
          <li>Agile Master Training (2021)</li>
-         <li>Projext Management Professional (2019)</li>
+         <li>Project Management Professional (2019)</li>
          <li>Software Testing Bootcamp (2019)</li>
        </ul>
       <br></br>
        <h3>Employment:</h3>
-       <br></br>
-       Customer Service Specialist @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/icons8-imdb.png"width="90px" alt="imdb"/>
-       <br></br>
-       <br></br>
-       Sr. Technical Support Analyst @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/castncrew.png" width="95px" alt="castandcrew"/>
-      <br></br>
-      <br></br>
-      Sales Support Associate @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/finaldraft.png" width="100px" height="40px" alt="finaldraft"/>
+       <ul>
+         <li>
+           Customer Service Specialist @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/icons8-imdb.png"width="90px" alt="imdb"/>
+        </li>
+        <li>
+          Sr. Technical Support Analyst @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/castncrew.png" width="95px" alt="castandcrew"/>
+         </li>
+         <li>
+         Sales Support Associate @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/finaldraft.png" width="100px" height="40px" alt="finaldraft"/>
+       </li>
+    </ul>
       <br></br>
       <br></br>
       <h3>Education:</h3>
       <br></br>
       B.A. Communication and Media Studies.
+      <ul>
+         <li></li>
+         </ul>
       </div>
       <div>
         <p>View or Download my full <a href="http://localhost:52330/reactpro-portfolio/src/assets/PorfolioResume_RyanEvans.pdf" width="30px" rel="noreferrer" target="_blank" >Resume.</a></p>

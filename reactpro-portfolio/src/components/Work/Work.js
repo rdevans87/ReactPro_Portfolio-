@@ -4,6 +4,7 @@ import work from "../../projects.json";
 import "../Work/Work.css"
 // import "./Project/Project";
 
+
 function Wrapper(props) {
   return <div className="wrapper">{props.children}</div>;
 
@@ -16,7 +17,7 @@ function Work() {
     <section className="work">
       <h1>Work</h1>
    
-      <Wrapper id="project-data">
+      <Wrapper id="project">
     
         {work.map((project => (
           <RepoCards key={project.id} image={project.image} name={project.name}

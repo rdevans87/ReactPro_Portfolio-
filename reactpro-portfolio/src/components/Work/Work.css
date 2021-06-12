@@ -73,9 +73,14 @@ body {
     /* justify-content: center; */
    }
 
- 
 
- 
+.card .card1 {
+ z-index: 1;
+
+}
+
+
+
  .container {
   flex-wrap: wrap;
   justify-content: center;
@@ -84,9 +89,7 @@ body {
   
 } 
 
-.card{
-  z-index: 6;
-}
+
    
   .container .card{
     margin-top: 10px;

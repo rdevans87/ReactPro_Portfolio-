@@ -51,11 +51,10 @@ function Resume() {
        </li>
     </ul>
       <br></br>
-      <br></br>
       <h3>Education:</h3>
        <ul> 
          <li>
-         B.A. Communication and Media Studies <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/ucf.png" alt="ucf"/> 
+         B.A. Communication and Media Studies <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/ucf.png" alt="ucf" width="50px"/> 
          </li>
          </ul>
          </div>

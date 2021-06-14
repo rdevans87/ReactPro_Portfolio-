@@ -7,6 +7,7 @@
 
 body{
   background: #2e2c2e;
+  height: 100vh;
 }
 
 
@@ -17,8 +18,6 @@ body{
   background-image: url("../../assets/blurred-magenta-and-cyan-sparks.png");
   background-size: cover;
   max-width: 100%;
-
-  
   
 }
 

@@ -4,13 +4,13 @@
   padding: 0;
   
 }
-/* 
-.linear-gradient-background {
-  background-image: linear-gradient(
-    rgb(20, 19, 19),
-    rgba(46, 45, 45, 0.6)
-  ); */
-/* } */
+
+
+#project {
+  z-index: 6;
+} 
+
+
 /* 
 body {
   background: hsl(300, 2%, 18%);

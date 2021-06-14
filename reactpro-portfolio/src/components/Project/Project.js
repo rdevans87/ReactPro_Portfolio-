@@ -1,23 +1,18 @@
 import React from 'react';
 import "../Project/Project.css"
 
- document.getObjectByClassName("project")
- const project={id};
- let project1 = project.id[1]
-poject1 = card
-let card = []
+
 
 
 
 function RepoCards(props) {
     return(
-
-    <section className="project">
-
-    
+  
+    <section className="projects">
+     
     <div className="container">
-     <div className="card card1 card2 card3">
-       <div className="face face1">
+     <div className="card" id="project">
+       <div className="face face1" >
          <div className="content">  
          <img className="screenshot" src={props.image} alt={props.name}/>       
            <h3>{props.name}</h3>
@@ -39,8 +34,9 @@ function RepoCards(props) {
     
 
 
-    );
+  );
 
 }
+
 
 export default RepoCards;

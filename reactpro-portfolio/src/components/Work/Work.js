@@ -5,6 +5,7 @@ import "../Work/Work.css"
 // import "./Project/Project";
 
 
+
 function Wrapper(props) {
   return <div className="wrapper">{props.children}</div>;
 
@@ -18,10 +19,10 @@ function Work() {
       <h1>Work</h1>
    
       <Wrapper id="project">
-    
         {work.map((project => (
-          <RepoCards key={project.id} image={project.image} name={project.name}
-            github={project.github} deploy={project.deploy} summary={project.summary} tools={project.tools} />)))};           
+          <RepoCards key={project.id} style={project.style} image={project.image} name={project.name}
+            github={project.github} deploy={project.deploy} summary={project.summary} tools={project.tools} />)))}; 
+                    
         </Wrapper>
     </section>
 

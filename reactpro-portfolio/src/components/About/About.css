@@ -2,18 +2,26 @@
   box-sizing: border-box;
   margin: 0;
   padding:0;
+  
 }
+
+body{
+  background: #2e2c2e;
+
+}
+
 
 .about {
   font-size: 20px;
-  background: #2e2c2e;
-  /* margin: 20px; */
+  margin: 20px;
   padding: 20px;
   padding-left: 30px;
   color: white;
   text-shadow: 2px 2px 4px #000;
   margin-bottom: 230px;
- 
+  background: #2e2c2e;
+  max-width: 100%;
+  
 }
 
 .about h1 {

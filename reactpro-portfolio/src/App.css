@@ -1,15 +1,15 @@
-*{
+/* *{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-}
+} */
 
-body {
-  background: hsl(300, 2%, 18%);
-  flex-direction: column;
+
+header{
   max-width: 100%;
-
-} 
+  margin:0;
+  padding: 0;
+}
 
 
 .App {

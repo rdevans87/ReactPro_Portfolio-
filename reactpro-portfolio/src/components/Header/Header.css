@@ -1,9 +1,23 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+body{
+  background: #2e2c2e;
+}
+
+
+
 .header {
   /* background: #222020; */
   height: 220px;
   background-image: url("../../assets/blurred-magenta-and-cyan-sparks.png");
   background-size: cover;
-  max-width:100%;
+  max-width: 100%;
+
   
   
 }
@@ -31,6 +45,9 @@
 
   }
 }
+
+
+
 
 
 

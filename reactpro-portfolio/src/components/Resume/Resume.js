@@ -7,8 +7,11 @@ function Resume() {
 
     <section className="resume">
       <h1>Resume</h1>
+      <div className="profile">
+      <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/profilepic.jpg" width="300px" alt="profile" ></img>
+      </div> 
+      <br></br>
       <div>
-      <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/profilepic.jpg" width="300px" alt="profile" ></img> 
       <h3>Skills:</h3>
       <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/html5.png" width="60px" alt="HTML5" label="html5"></img> 
       <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/css3.png" width="60px" alt="CSS3" ></img> 
@@ -23,7 +26,8 @@ function Resume() {
       <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/icons8-rest_api.png" width="60px" alt="API" ></img> 
       <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/npm.png" width="60px" alt="NPM" ></img> 
       <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/json.png" width="60px" alt="JSON" ></img> 
-      
+      </div>
+      <div>
       <br></br>
        <h3>Certifications:</h3>
        <ul>
@@ -41,6 +45,7 @@ function Resume() {
         <li>
           Sr. Technical Support Analyst @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/castncrew.png" width="95px" alt="castandcrew"/>
          </li>
+         <br></br>
          <li>
          Sales Support Associate @ <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/icons/finaldraft.png" width="100px" height="40px" alt="finaldraft"/>
        </li>
@@ -48,16 +53,14 @@ function Resume() {
       <br></br>
       <br></br>
       <h3>Education:</h3>
-      <br></br>
-      /* B.A. Communication and Media Studies 
-      {/* {<img src=""} */}
-      <ul>
-         <li></li>
+       <ul> 
+         <li>
+         B.A. Communication and Media Studies <img src="https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/ucf.png" alt="ucf"/> 
+         </li>
          </ul>
-      </div>
+         </div>
       <div>
         <p>View or Download my full <a href="http://localhost:52330/reactpro-portfolio/src/assets/PorfolioResume_RyanEvans.pdf" width="30px" rel="noreferrer" target="_blank" >Resume.</a></p>
-        
       </div>
       </section>
 

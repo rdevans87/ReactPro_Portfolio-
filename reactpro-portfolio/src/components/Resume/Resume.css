@@ -11,10 +11,15 @@
   padding-left: 30px;
   color: white;
   text-shadow: 2px 2px 4px #000;
- 
-
+  margin-bottom: 70px;
   
 } 
+
+
+a {
+font-size: 25px;
+text-decoration: none;
+}
 
 .resume h1 {
 
@@ -30,11 +35,40 @@
   text-shadow: 4px 4px 4px whitesmoke;
 }
 
+.profile{
+  position: relative;
+  padding-top: 20px;
+  margin-left: 39%;
+ justify-content: center;
+
+}
+
+
+@media screen and (max-width: 960px) {
+
+  .profile{
+    padding-top: 20px;
+    margin-left: 20%;
+
+  }
+}
+
+
 
 @media screen and (max-width: 768px) {
 
   .about h1{
     padding-top: 20px;
+
+  }
+}
+
+
+@media screen and (max-width: 960px) {
+
+  .profile{
+    padding-top: 20px;
+    margin-left: 15px;
 
   }
 }

@@ -23,8 +23,8 @@ class Header extends Component {
           <Route path="/resume" component={Resume}/>
           <Route path="/contact" component={Contact}/>
           <Route path="/about" component={About}/>
-            </div>
-          </HashRouter>
+        </div>
+        </HashRouter>
     )
 
   }

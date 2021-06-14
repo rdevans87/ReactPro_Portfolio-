@@ -49,7 +49,7 @@ function Resume() {
       <br></br>
       <h3>Education:</h3>
       <br></br>
-      B.A. Communication and Media Studies.
+      {/* B.A. Communication and Media Studies <img src="" */}
       <ul>
          <li></li>
          </ul>

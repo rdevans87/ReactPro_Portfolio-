@@ -9,9 +9,10 @@ This portfolio was built with the `JavaScript` open-source library `React` using
 
 Linkd to `main branch` on Github: [ReactPro Repo](https://github.com/rdevans87/reactpro_portfolio) 
 
-Link to `gh-pages branch` on Github: [ReactReactPro](https://github.com/rdevans87/)_reactpro_portfolio/tree/gh-pages
+Link to `gh-pages branch` on Github: [ReactReactPro](https://github.com/rdevans87/reactpro_portfolio/tree/gh-pages)
 
-Deployed to GitHub Pages [React Portfolio](https://rdevans87.github.io/reactpro_portfolio/#/resume)
+Deployed to GitHub Pages [React Portfolio](https://rdevans87.github.io/reactpro_portfolio/)
+
 
 ## Mock Up: 
 

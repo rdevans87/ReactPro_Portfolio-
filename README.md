@@ -7,11 +7,11 @@
 
 This portfolio was built with the `JavaScript` open-source library `React` using UI Components and Navigation with `React Router`. The portfolio has a polished design with pure CSS styling, developed with the "mobile first" approach. `Navbar`, `Header`, and `Footer` components appear on multiple pages for greater accessibilty and ease of use when viewing main portfolio components: `Work`, `About`, `Resume`, and `Contact`.
 
-Github Repository: [ReactPro Portfolio](https://github.com/rdevans87/ReactPro_Portfolio/tree/main/reactpro-portfolio)
+`main branch` Github: [ReactPro Repo](https://github.com/rdevans87/ReactPro_Portfolio/tree/main/reactpro-portfolio) 
 
-Deployed to GitHub Pages [React Portfolio](/)
+Github Repository: [ReactPro Repo](https://github.com/rdevans87/reactpro_portfolio/tree/gh-pages) `deployed branch`
 
-
+Deployed to GitHub Pages [React Portfolio](https://rdevans87.github.io/reactpro_portfolio/#/resume)
 
 ## Mock Up: 
 

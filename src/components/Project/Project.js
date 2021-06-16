@@ -1,10 +1,6 @@
 import React from 'react';
 import "../Project/Project.css"
 
-
-
-
-
 function RepoCards(props) {
     return(
   
@@ -30,12 +26,8 @@ function RepoCards(props) {
     </div>
     </section>
 
-    
-
-
   );
 
 }
-
 
 export default RepoCards;

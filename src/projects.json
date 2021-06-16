@@ -2,7 +2,7 @@
     {
         "id": 6,
         "name": "PetTrax" ,
-        "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/petTrax.png",
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/petTrax.png",
         "github": "https://github.com/rdevans87/pettrax", 
         "deploy": "https://secret-coast-15963.herokuapp.com/",
         "summary": "Summary: A simple App for tracking and logging your pet's daily rhythms .",
@@ -11,7 +11,7 @@
     {
         "id": 5,
         "name": "Employee Tracker",
-        "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/employeeTracker.png" ,
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/employeeTracker.png" ,
         "github": "https://github.com/rdevans87/MySQL-Employee-Tracker",
         "deploy": "https://rdevans87.github.io/MySQL-Employee-Tracker/" ,
         "summary": "Summary: Backend app for tracking a company's employees from the command-line.",
@@ -21,7 +21,7 @@
     {
         "id": 4,
         "name": "Weather Dashboard",
-        "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/weatherDashboard.png",
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/weatherDashboard.png",
         "github": "https://github.com/rdevans87/Weather-Dashboard-March-6-2021",
         "deploy": "https://rdevans87.github.io/Weather-Dashboard-March-6-2021/",
         "summary": "Summary: Weather App that provides current and future weather forecasts.",
@@ -32,7 +32,7 @@
     {
         "id": 3,
         "name": "E-Commerce Backend",
-        "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/ecomm.png" ,
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/ecomm.png" ,
         "github": "https://github.com/rdevans87/ORM-ECommerce-BackEnd" ,
         "deploy": "https://rdevans87.github.io/ORM-ECommerce-BackEnd/",
         "summary": "Summary: Backend of an E-Commerce site using HTTP requests to modify inventory.",
@@ -43,7 +43,7 @@
     {
         "id": 2,
         "name": "NoteTaker App",
-        "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/noteTaker.png" ,
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/noteTaker.png" ,
         "github": "https://github.com/rdevans87/Express.js_NoteTaker" ,
         "deploy": "https://notetaker-expressjs.herokuapp.com/" ,
         "summary": "Summary: Note Taker App to write and save nots with ExpressJS.",
@@ -53,7 +53,7 @@
     {
         "id": 1,
         "name": "ReadMe Generator",
-        "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/goodReadMe.png" ,
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/goodReadMe.png" ,
         "github": "https://github.com/rdevans87/ReadMeGenerator_NodeJs",
         "deploy": "https://rdevans87.github.io/ReadMeGenerator_NodeJs/",
         "summary": "Summary: Backend App for generating a ReadMe.md file.",

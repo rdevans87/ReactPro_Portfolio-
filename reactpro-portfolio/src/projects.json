@@ -14,7 +14,7 @@
         "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/employeeTracker.png" ,
         "github": "https://github.com/rdevans87/MySQL-Employee-Tracker",
         "deploy": "https://rdevans87.github.io/MySQL-Employee-Tracker/" ,
-        "summary": "Summary: Backend solution for managing a company's employees using node, inquirer, and MySQL.",
+        "summary": "Summary: Backend app for tracking a company's employees from the command-line.",
         "tools": "Tools: NodeJS, Git, MySQL, JSON, Chalk, Inquirer, Figlet " 
     },
     
@@ -24,7 +24,7 @@
         "image": "https://raw.githubusercontent.com/rdevans87/ReactPro_Portfolio/main/reactpro-portfolio/src/assets/weatherDashboard.png",
         "github": "https://github.com/rdevans87/Weather-Dashboard-March-6-2021",
         "deploy": "https://rdevans87.github.io/Weather-Dashboard-March-6-2021/",
-        "summary": "Summary: Weather App that provides current and future weather forecasts for United States.",
+        "summary": "Summary: Weather App that provides current and future weather forecasts.",
         "tools": "Tools: HTML, CSS, JavaScript, Bootstrap, OpenWeather API" 
     },
 

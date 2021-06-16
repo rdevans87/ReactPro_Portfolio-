@@ -68,7 +68,8 @@ margin-left: 1px;
 
 @media screen and (max-width: 1500px) {
   .navbar p{
-  margin-right: 300px;
+  margin-right: 30px;
+  margin-left: 10px;
 }
 
 

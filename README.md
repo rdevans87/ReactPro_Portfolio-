@@ -12,13 +12,12 @@ Github Repository: [ReactPro Portfolio](https://github.com/rdevans87/ReactPro_Po
 Deployed to GitHub Pages [React Portfolio](/)
 
 
+
 ## Mock Up: 
 
 
-<img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/screenshotofsite.png" width="700">
 
-
-<img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/workReact.png" width="700">
+<img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/portfolioscreenshot.png" width="550px">
 
 
 ## Acceptance Criteria

@@ -4,36 +4,26 @@
   padding: 0;
 
 }
-
-
-
-
-
 .footer{
-  position: relative;
     background: #1a1a1a;
     height: 110px;
     text-align: center;
-    margin-top: -100px;
-   
-    
+    /* margin-top: -100px; */
+    bottom: 0;
+    background-size: cover;
+     
 }
-
-
   .footer img{
     display: inline-block;
+    /* position: fixed; */
     align-items: center; 
     text-decoration: none;
     padding: 18px 15px; 
     padding-bottom: 10px;
-
-
   }
 
   .src:hover{
     text-shadow: 2px 2px 4px whitesmoke;
-
-
   }
 
   @media screen and (max-width: 768px) {
@@ -44,9 +34,6 @@
     }
   }
   
-  
-  
-
   @media screen and (max-width: 600px) {
 
     .footer{

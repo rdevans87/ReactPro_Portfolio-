@@ -13,7 +13,7 @@ function Contact() {
   return (
     <section className="contact">
       <h2>Contact</h2>
-      <form class="justify-content-center" id="contactForm">
+      <form class="justify-content-center" id="contactForm" mailto="ryanevanscodes@gmail.com">
       <div>
       <label htmlFor="name"></label>
       <input className="form-control" type="text"  placeholder="full name" name="name"></input>
@@ -31,7 +31,7 @@ function Contact() {
       <textarea className="form-control" type="text" placeholder="message" name="name"></textarea>
       </div>
       <div>
-      <button className="btn btn-primary my-4" type="submit" onSubmit={handleSubmit}>Submit</button>
+      <button className="btn btn-primary my-4" type="submit" mailto="ryanevanscodes@gmail.com" onSubmit={handleSubmit}>Submit</button>
       </div>
       </form>
   

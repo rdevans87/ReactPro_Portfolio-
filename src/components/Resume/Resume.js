@@ -39,6 +39,9 @@ function Resume() {
       <br></br>
        <h3>Employment:</h3>
        <ul>
+       <li>
+           Product Owner @ <img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/icons/icons8-imdb.png"width="90px" alt="mrisoftware"/>
+        </li>
          <li>
            Customer Service Specialist @ <img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/icons/icons8-imdb.png"width="90px" alt="imdb"/>
         </li>

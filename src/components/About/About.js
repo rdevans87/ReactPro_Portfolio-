@@ -11,17 +11,18 @@ function About() {
       My name is Ryan Evans. Thank you for visiting my Professional Portfolio created with React!
       <br></br>
       <br></br>
-      I'm an independent web developer with leadership experience and strong technical background supporting a variety of cross-platform software applications. Certified project management professional and recent graduate of The Ohio State University’s full stack coding bootcamp. 
-      In depth knowledge of Agile principles and software QA testing methods for each phase of the development lifecycle. Self-motivated, team-player with the ability to learn quickly and communicate effectively to build fast rapport with clients and team members of varying seniority, 
-      backgrounds and experience.
+      Screenwriter turned Spaghetti-coder with a passion for technology and entertainment. I've barely scratched the surface of all there is to know about web development, 
+      but I intend to bring the same amount of passion and creativity to my code as I do screenwriting. Please continue to check back periodically as I continue to improve 
+      my skills and develop new projects!
       <br></br>
       <br></br>
-      Open to independent projects, collaborative opportunities, and contract-to-hire positions. Knowledge of front-end languages and third-party frameworks for building mobile responsive web applications. Experience with DOM manipulation and JSON data integration with server-side APIs.
+      Professional certifications in Full Stack Web Development, Project Management, Agile Methodologies, Software QA Testing, and Microsoft Azure AI Fundamentals. Knowledge of 
+      front-end languages and third-party frameworks for building mobile responsive web applications. Experience with DOM manipulation and JSON data integration with server-side APIs: 
+      HTML5, CSS3, JavaScript ES6, React, Node.js, APIs, SQL Database.
       <br></br>
-       View or Download my full <a href="http://localhost:52330/src/assets/PorfolioResume_RyanEvans.pdf" width="20px" rel="noreferrer" target="_blank">Resume.</a>
-      
+      <br></br>
+      Open to independent projects, collaborative opportunities, and contract-to-hire positions. View or Download my full <a href="http://localhost:52330/src/assets/PorfolioResume_RyanEvans.pdf" width="20px" rel="noreferrer" target="_blank">Resume.</a>
       </p>
-      
     </section>
   );
 }

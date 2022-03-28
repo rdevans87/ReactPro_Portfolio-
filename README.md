@@ -3,7 +3,7 @@
 
 ## Summary
 
- Unit 20 React Homework: React Portfolio
+React Portfolio
 
 This portfolio was built with the `JavaScript` open-source library `React` using UI Components and Navigation with `React Router`. The portfolio has a polished design with pure CSS styling, developed with the "mobile first" approach. `Navbar`, `Header`, and `Footer` components appear on multiple pages for greater accessibilty and ease of use when viewing main portfolio components: `Work`, `About`, `Resume`, and `Contact`.
 

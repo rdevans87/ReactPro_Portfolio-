@@ -1,13 +1,22 @@
 [
+    {
+        "id": 8,
+        "name": "DevDum!",
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/goodReadMe.png" ,
+        "github": "https://github.com/rdevans87/DevDum",
+        "deploy": "https://rdevans87.github.io/DevDum/",
+        "summary": "Summary: A handpicked list of 200+ resources for web developers.",
+        "tools": "Tools: HTML, CSS, JavaScript"
+    },
 
     {
         "id": 7,
         "name": "YouTube.live" ,
-        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/petTrax.png",
-        "github": "https://github.com/rdevans87/pettrax", 
-        "deploy": "https://secret-coast-15963.herokuapp.com/",
-        "summary": "Summary: A simple App for tracking and logging your pet's daily rhythms .",
-        "tools": "Tools: MVC, Node.js, MySQL, Heroku, Cloudinary, ExpressJS"
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/YouTubeLive.png",
+        "github": "https://github.com/rdevans87/youtube-live", 
+        "deploy": "https://osu-project3.herokuapp.com/",
+        "summary": "Live Music and Events Platform. Watch, Discover, Enjoy!.",
+        "tools": "Tools: React, Bulma, YouTube API, SeatGeek API, MongoDB"
     },
 
     {
@@ -55,10 +64,10 @@
         "id": 2,
         "name": "Team Profile Generator",
         "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/noteTaker.png" ,
-        "github": "https://github.com/rdevans87/Express.js_NoteTaker" ,
-        "deploy": "https://notetaker-expressjs.herokuapp.com/" ,
+        "github": "https://github.com/rdevans87/OOP_TeamProfileGenerator" ,
+        "deploy": "https://rdevans87.github.io/OOP_TeamProfileGenerator/" ,
         "summary": "Summary: Note Taker App to write and save nots with ExpressJS.",
-        "tools": "Tools: HTML, CSS, JavaScript, NodeJS, JSON, Heroku, ExpressJS"  
+        "tools": "Tools: Object Oriented Programming, Command Line Interface, Back-End"  
     },
     
     {

@@ -13,31 +13,12 @@ Link to `gh-pages branch` on Github: [ReactReactPro](https://github.com/rdevans8
 
 Deployed to GitHub Pages [React Portfolio](https://rdevans87.github.io/reactpro_portfolio/)
 
-
 ## Mock Up: 
-
 
 
 <img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/portfolioscreenshot.png" width="550px">
 
-
-## Acceptance Criteria
-
-| Requirement    | Weight |
-| -------------- | ------ |
-| Portfolio      | 90%    |
-| GitHub Profile | 10%    |
-
-
-* [Updated Portfolio](#updated-portfolio)
-
-* [Design](#design)
-
-* [React](#react)
-
-* [Updated LinkedIn Profile](#updated-linkedin-profile)
-
-## RESOURCES
+## Technologies
 
 * [React](https://reactjs)
 

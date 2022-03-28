@@ -12,7 +12,7 @@
     {
         "id": 7,
         "name": "YouTube.live",
-        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/teamprofilegenerator.png",
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/YouTubeLive%20copy.png",
         "github": "https://github.com/rdevans87/youtube-live", 
         "deploy": "https://osu-project3.herokuapp.com/",
         "summary": "Live Music and Events Platform. Watch, Discover, Enjoy!.",
@@ -28,8 +28,6 @@
         "summary": "Summary: A simple App for tracking and logging your pet's daily rhythms .",
         "tools": "Tools: MVC, Node.js, MySQL, Heroku, Cloudinary, ExpressJS"
     },
- 
-    
     {
         "id": 5,
         "name": "Weather Dashboard",
@@ -39,19 +37,8 @@
         "summary": "Summary: Weather App that provides current and future weather forecasts.",
         "tools": "Tools: HTML, CSS, JavaScript, Bootstrap, OpenWeather API" 
     },
-
-
     {
         "id": 4,
-        "name": "E-Commerce Backend",
-        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/ecomm.png" ,
-        "github": "https://github.com/rdevans87/ORM-ECommerce-BackEnd" ,
-        "deploy": "https://rdevans87.github.io/ORM-ECommerce-BackEnd/",
-        "summary": "Summary: Backend of an E-Commerce site using HTTP requests to modify inventory.",
-        "tools": "Tools: NodeJS, MySQL, Git, Insomnia, ExpressJS " 
-    },
-    {
-        "id": 3,
         "name": "Employee Tracker",
         "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/employeeTracker.png" ,
         "github": "https://github.com/rdevans87/MySQL-Employee-Tracker",
@@ -61,13 +48,22 @@
     },
             
     {
-        "id": 2,
+        "id": 3,
         "name": "Team Profile Generator",
         "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/teamprofilegenerator.png" ,
         "github": "https://github.com/rdevans87/OOP_TeamProfileGenerator" ,
         "deploy": "https://rdevans87.github.io/OOP_TeamProfileGenerator/" ,
         "summary": "Summary: Note Taker App to write and save nots with ExpressJS.",
         "tools": "Tools: Object Oriented Programming, Command Line Interface, Back-End"  
+    },
+    {
+        "id": 2,
+        "name": "E-Commerce Backend",
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/ecomm.png" ,
+        "github": "https://github.com/rdevans87/ORM-ECommerce-BackEnd" ,
+        "deploy": "https://rdevans87.github.io/ORM-ECommerce-BackEnd/",
+        "summary": "Summary: Backend of an E-Commerce site using HTTP requests to modify inventory.",
+        "tools": "Tools: NodeJS, MySQL, Git, Insomnia, ExpressJS " 
     },
     
     {

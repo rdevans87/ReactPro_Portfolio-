@@ -1,4 +1,15 @@
 [
+
+    {
+        "id": 7,
+        "name": "YouTube.live" ,
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/petTrax.png",
+        "github": "https://github.com/rdevans87/pettrax", 
+        "deploy": "https://secret-coast-15963.herokuapp.com/",
+        "summary": "Summary: A simple App for tracking and logging your pet's daily rhythms .",
+        "tools": "Tools: MVC, Node.js, MySQL, Heroku, Cloudinary, ExpressJS"
+    },
+
     {
         "id": 6,
         "name": "PetTrax" ,
@@ -42,7 +53,7 @@
             
     {
         "id": 2,
-        "name": "NoteTaker App",
+        "name": "Team Profile Generator",
         "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/noteTaker.png" ,
         "github": "https://github.com/rdevans87/Express.js_NoteTaker" ,
         "deploy": "https://notetaker-expressjs.herokuapp.com/" ,

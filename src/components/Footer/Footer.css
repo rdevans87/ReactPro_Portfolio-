@@ -17,6 +17,7 @@
     display: inline-block;
     /* position: fixed; */
     align-items: center; 
+    width:"50px";
     text-decoration: none;
     padding: 18px 15px; 
     padding-bottom: 10px;

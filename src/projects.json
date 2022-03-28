@@ -2,7 +2,7 @@
     {
         "id": 8,
         "name": "DevDum!",
-        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/goodReadMe.png" ,
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/DevDumHomePage.png" ,
         "github": "https://github.com/rdevans87/DevDum",
         "deploy": "https://rdevans87.github.io/DevDum/",
         "summary": "Summary: A handpicked list of 200+ resources for web developers.",
@@ -11,8 +11,8 @@
 
     {
         "id": 7,
-        "name": "YouTube.live" ,
-        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/YouTubeLive.png",
+        "name": "YouTube.live",
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/teamprofilegenerator.png",
         "github": "https://github.com/rdevans87/youtube-live", 
         "deploy": "https://osu-project3.herokuapp.com/",
         "summary": "Live Music and Events Platform. Watch, Discover, Enjoy!.",
@@ -63,7 +63,7 @@
     {
         "id": 2,
         "name": "Team Profile Generator",
-        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/noteTaker.png" ,
+        "image": "https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/teamprofilegenerator.png" ,
         "github": "https://github.com/rdevans87/OOP_TeamProfileGenerator" ,
         "deploy": "https://rdevans87.github.io/OOP_TeamProfileGenerator/" ,
         "summary": "Summary: Note Taker App to write and save nots with ExpressJS.",

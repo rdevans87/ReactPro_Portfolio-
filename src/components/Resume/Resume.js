@@ -39,8 +39,8 @@ function Resume() {
       <br></br>
        <h3>Employment:</h3>
        <ul>
-       <li>
-           Product Owner @ <img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/icons/icons8-imdb.png"width="90px" alt="mrisoftware"/>
+        <li>
+           Product Owner @ <img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/mrisoftware.png"width="90px" alt="mrisoftware"/>
         </li>
          <li>
            Customer Service Specialist @ <img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/icons/icons8-imdb.png"width="90px" alt="imdb"/>
@@ -52,7 +52,7 @@ function Resume() {
          <li>
          Sales Support Associate @ <img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/icons/finaldraft.png" width="100px" height="40px" alt="finaldraft"/>
        </li>
-    </ul>
+      </ul>
       <br></br>
       <h3>Education:</h3>
        <ul> 
@@ -60,9 +60,9 @@ function Resume() {
          B.A. Communication and Media Studies <img src="https://raw.githubusercontent.com/rdevans87/reactpro_portfolio/main/src/assets/ucf.png" alt="ucf" width="50px"/> 
          </li>
          </ul>
-         </div>
+      </div>
       <div>
-        <p>View or Download my full <a href="http://localhost:52330/src/assets/PorfolioResume_RyanEvans.pdf" width="30px" rel="noreferrer" target="_blank" >Resume.</a></p>
+        <p>View or Download my full <a href="https://drive.google.com/file/d/1W-zvxz8Ol1EAyn-PtkoEOTZi6kcz8Jsl/view?usp=sharing" width="30px" rel="noreferrer" target="_blank" >Resume.</a></p>
       </div>
       </section>
 

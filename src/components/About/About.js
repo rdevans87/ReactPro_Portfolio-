@@ -21,7 +21,7 @@ function About() {
       HTML5, CSS3, JavaScript ES6, React, Node.js, APIs, SQL Database.
       <br></br>
       <br></br>
-      Open to independent projects, collaborative opportunities, and contract-to-hire positions. View or Download my full <a href="http://localhost:52330/src/assets/PorfolioResume_RyanEvans.pdf" width="20px" rel="noreferrer" target="_blank">Resume.</a>
+      Open to independent projects, collaborative opportunities, and contract-to-hire positions. View or Download my full <a href="https://drive.google.com/file/d/1W-zvxz8Ol1EAyn-PtkoEOTZi6kcz8Jsl/view?usp=sharing" width="20px" rel="noreferrer" target="_blank">Resume.</a>
       </p>
     </section>
   );
